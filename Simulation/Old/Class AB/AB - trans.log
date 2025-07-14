@@ -1,0 +1,71 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\Class AB\AB - trans.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+vernier = 0.5
+vernier = 0.25
+Gmin = 4.89078e-05
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 4.99814e-05
+vernier = 0.0416667
+vernier = 0.0555555
+Gmin = 4.44471e-05
+vernier = 0.074074
+vernier = 0.0987653
+Gmin = 3.68861e-05
+vernier = 0.131687
+Gmin = 2.75478e-05
+vernier = 0.175583
+vernier = 0.23411
+Gmin = 1.69565e-05
+vernier = 0.312147
+vernier = 0.416196
+Gmin = 7.90957e-06
+vernier = 0.554928
+Gmin = 2.44158e-06
+vernier = 0.739903
+vernier = 0.986537
+Gmin = 3.65138e-07
+vernier = 1
+Gmin = 3.94184e-08
+Gmin = 4.23252e-09
+Gmin = 4.54463e-10
+Gmin = 4.87976e-11
+Gmin = 5.2396e-12
+Gmin = 5.62598e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Heightened Def Con from 2.16136e-06 to 2.16236e-06
+Heightened Def Con from 2.16599e-06 to 2.16912e-06
+
+Date: Thu Mar 20 21:49:58 2025
+Total elapsed time: 0.367 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 12957
+traniter = 11814
+tranpoints = 5485
+accept = 4015
+rejected = 1472
+matrix size = 179
+fillins = 297
+solver = Normal
+Avg thread counts: 1.6/3.9/2.3/1.6
+Matrix Compiler1: 28.41 KB object code size  4.8/2.2/[1.1]
+Matrix Compiler2: 20.32 KB object code size  1.3/1.6/[0.8]
+

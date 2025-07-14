@@ -1,0 +1,31 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Amplifier OLD\Simulation V2\Diode protection\diode protection.asc
+
+WARNING: Less than two connections to node +v.  This node is used by r1.
+WARNING: Less than two connections to node -v.  This node is used by r2.
+.OP point found by inspection.
+.step amplitude=5
+.step amplitude=6
+.step amplitude=7
+.step amplitude=8
+.step amplitude=9
+.step amplitude=10
+.step amplitude=11
+
+Date: Thu Mar 13 22:54:48 2025
+Total elapsed time: 0.404 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2240
+traniter = 2240
+tranpoints = 1070
+accept = 1054
+rejected = 16
+matrix size = 11
+fillins = 0
+solver = Normal
+Avg thread counts: 4.3/7.9/7.9/4.3
+Matrix Compiler1:      27 opcodes  0.2/[0.1]/0.1
+Matrix Compiler2: 759 bytes object code size  0.1/0.2/[0.1]
+

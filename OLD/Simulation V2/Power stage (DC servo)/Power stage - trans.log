@@ -1,0 +1,29 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation V2\Power stage - trans.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Limiting fall time of source v1 to 2
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.0100005 to 0.0100005
+Heightened Def Con from 0.0100006 to 0.0100006
+
+Date: Thu Mar 13 11:40:22 2025
+Total elapsed time: 0.193 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6907
+traniter = 6898
+tranpoints = 2181
+accept = 1885
+rejected = 298
+matrix size = 301
+fillins = 425
+solver = Normal
+Avg thread counts: 2.1/4.4/3.2/2.1
+Matrix Compiler1: 40.74 KB object code size  6.6/2.4/[1.4]
+Matrix Compiler2: 33.25 KB object code size  2.2/2.3/[1.2]
+

@@ -1,0 +1,10 @@
+Questionable use of curly braces in "r6 n004 vout {re}"
+    Error: undefined symbol in: "[re]"
+Questionable use of curly braces in "r9 vout n007 {re}"
+    Error: undefined symbol in: "[re]"
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\Old\Power stage darlington - trans.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT

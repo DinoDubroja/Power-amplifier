@@ -1,0 +1,60 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Amplifier OLD\Simulation\Power stage\Draft1.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.000164629 to 0.00016463
+Heightened Def Con from 0.000164947 +to 0.000164948
+Heightened Def Con from 0.000165055 +++to 0.000165058
+Heightened Def Con from 0.000359204 +to 0.000359205
+Heightened Def Con from 0.000359667 +++++++++++++++++++++++++to 0.00035967
+Heightened Def Con from 0.000361698 to 0.0003617
+Heightened Def Con from 0.000414922 to 0.000414923
+Heightened Def Con from 0.000415032 +to 0.000415032
+Heightened Def Con from 0.000415064 to 0.000415067
+Heightened Def Con from 0.000664974 to 0.000664975
+Heightened Def Con from 0.000859162 +to 0.000859163
+Heightened Def Con from 0.000859673 ++to 0.000859674
+Heightened Def Con from 0.000859809 to 0.00085981
+Heightened Def Con from 0.000861732 to 0.000861734
+Heightened Def Con from 0.000896514 to 0.000896515
+Heightened Def Con from 0.000914965 to 0.000914966
+Heightened Def Con from 0.000915062 +to 0.000915065
+Heightened Def Con from 0.00116479 to 0.00116479
+Heightened Def Con from 0.00116504 ++++++++++++++++++++++++++++to 0.00116505
+Heightened Def Con from 0.00116505 to 0.00116505
+Heightened Def Con from 0.00135827 to 0.00135828
+Heightened Def Con from 0.0013593 to 0.0013593
+Heightened Def Con from 0.00135972 +++++++++++++++++++++++++to 0.00135972
+Heightened Def Con from 0.00136192 to 0.00136193
+Heightened Def Con from 0.00141499 +++++++++++++++++++++++++++to 0.00141499
+Heightened Def Con from 0.001415 to 0.001415
+Heightened Def Con from 0.00166497 to 0.00166497
+Heightened Def Con from 0.00166507 +to 0.00166507
+Heightened Def Con from 0.00185845 to 0.00185845
+Heightened Def Con from 0.00185947 to 0.00185947
+Heightened Def Con from 0.00185986 to 0.00185986
+Heightened Def Con from 0.00186184 to 0.00186184
+Heightened Def Con from 0.00191495 to 0.00191495
+Heightened Def Con from 0.00191505 ++++++++++++++++++to 0.00191506
+
+Date: Thu Mar 13 21:03:40 2025
+Total elapsed time: 0.603 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 65766
+traniter = 65757
+tranpoints = 13894
+accept = 9190
+rejected = 4872
+matrix size = 163
+fillins = 193
+solver = Normal
+Avg thread counts: 1.1/1.6/1.4/1.1
+Matrix Compiler1: 19.40 KB object code size  3.6/1.9/[0.8]
+Matrix Compiler2: 17.37 KB object code size  1.5/1.8/[0.7]
+

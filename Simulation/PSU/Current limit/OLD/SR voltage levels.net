@@ -1,0 +1,7 @@
+* C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\PSU\SR voltage levels.asc
+A1 N001 0 0 0 0 0 N002 0 SRFLOP
+V1 N001 0 14
+.tran 1
+Vhigh=15
+.backanno
+.end

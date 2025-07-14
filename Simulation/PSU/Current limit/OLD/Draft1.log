@@ -1,0 +1,201 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\PSU\Current limit\OLD\Draft1.asc
+
+Error on line 10 : r6 n002 0 10k + 330 +  190 
+	 Unknown parameter "+"
+WARNING: Less than two connections to node -v.  This node is used by v2.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+vernier = 0.5
+Gmin = 0.0193428
+vernier = 0.666667
+Gmin = 0.00496619
+vernier = 0.888888
+vernier = 0.444444
+vernier = 0.222222
+Gmin = 0.00198787
+vernier = 0.296296
+Gmin = 0.00104294
+vernier = 0.395061
+vernier = 0.197531
+vernier = 0.0987653
+vernier = 0.0493827
+vernier = 0.0246913
+Gmin = 0.00100539
+vernier = 0.0123457
+vernier = 0.00617283
+vernier = 0.00308642
+vernier = 0.00154321
+Gmin = 0.00100076
+vernier = 0.000771604
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 0.000999923
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.378788%
+Source Step = 0.852273%
+Source Step = 1.32576%
+Source Step = 1.79924%
+Source Step = 2.27273%
+vernier = 0.0234375
+Source Step = 2.91193%
+Source Step = 3.62216%
+Source Step = 4.33239%
+Source Step = 5.04261%
+Source Step = 5.75284%
+vernier = 0.0351562
+Source Step = 6.67614%
+Source Step = 7.74148%
+Source Step = 8.80682%
+Source Step = 9.87216%
+Source Step = 10.9375%
+vernier = 0.0527344
+Source Step = 12.2692%
+Source Step = 13.8672%
+Source Step = 15.4652%
+Source Step = 17.0632%
+Source Step = 18.6612%
+vernier = 0.0791016
+Source Step = 20.5788%
+Source Step = 22.9759%
+Source Step = 25.3729%
+Source Step = 27.7699%
+Source Step = 30.1669%
+vernier = 0.118652
+Source Step = 32.9235%
+Source Step = 36.519%
+Source Step = 40.1145%
+Source Step = 43.71%
+Source Step = 47.3056%
+vernier = 0.177979
+Source Step = 51.2607%
+Source Step = 56.6539%
+Source Step = 62.0472%
+Source Step = 62.1062%
+Source Step = 62.1905%
+Source Step = 62.2748%
+Source Step = 62.359%
+Source Step = 62.4433%
+vernier = 0.00417137
+Source Step = 62.536%
+Source Step = 62.6624%
+Source Step = 62.7888%
+Source Step = 62.9152%
+Source Step = 63.0416%
+vernier = 0.00625706
+Source Step = 63.1743%
+Source Step = 63.364%
+Source Step = 63.5536%
+Source Step = 63.7432%
+Source Step = 63.9328%
+Source Step = 64.1224%
+vernier = 0.00938559
+Source Step = 64.4068%
+Source Step = 64.6912%
+Source Step = 64.9756%
+Source Step = 65.26%
+Source Step = 65.5444%
+vernier = 0.0140784
+Source Step = 65.9568%
+Source Step = 66.3835%
+Source Step = 66.8101%
+Source Step = 67.2367%
+Source Step = 67.6633%
+vernier = 0.0211176
+Source Step = 68.2606%
+Source Step = 68.9005%
+Source Step = 69.5404%
+Source Step = 70.1804%
+Source Step = 70.3323%
+Source Step = 70.3723%
+Source Step = 70.4123%
+Source Step = 70.4523%
+Source Step = 70.4923%
+vernier = 0.00197977
+Source Step = 70.5403%
+Source Step = 70.6003%
+Source Step = 70.6603%
+Source Step = 70.7203%
+Source Step = 70.7803%
+vernier = 0.00296966
+Source Step = 70.8493%
+Source Step = 70.9393%
+Source Step = 71.0293%
+Source Step = 71.1192%
+Source Step = 71.2092%
+vernier = 0.00445449
+Source Step = 71.3082%
+Source Step = 71.4432%
+Source Step = 71.5782%
+Source Step = 71.7132%
+Source Step = 71.8482%
+vernier = 0.00668173
+Source Step = 71.9899%
+Source Step = 72.1924%
+Source Step = 72.3948%
+Source Step = 72.5973%
+Source Step = 72.7998%
+Source Step = 73.0023%
+vernier = 0.0100226
+Source Step = 73.306%
+Source Step = 73.6097%
+Source Step = 73.9134%
+Source Step = 74.2171%
+Source Step = 74.5209%
+vernier = 0.0150339
+Source Step = 74.9612%
+Source Step = 75.4168%
+Source Step = 75.8724%
+Source Step = 76.328%
+Source Step = 76.7835%
+vernier = 0.0225508
+Source Step = 77.4213%
+Source Step = 78.1047%
+Source Step = 78.788%
+Source Step = 79.4714%
+Source Step = 80.1548%
+vernier = 0.0338263
+Source Step = 81.0773%
+Source Step = 82.1023%
+Source Step = 83.1274%
+Source Step = 84.1524%
+Source Step = 85.1775%
+vernier = 0.0507394
+Source Step = 86.51%
+Source Step = 87.4325%
+vernier = 0.00317121
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 99.3817%
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 6.07861 s.
+
+Date: Mon May 12 18:37:05 2025
+Total elapsed time: 1.245 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20865
+traniter = 2096
+tranpoints = 1043
+accept = 1042
+rejected = 145
+matrix size = 144
+fillins = 277
+solver = Normal
+Avg thread counts: 4.5/8.1/8.1/4.5
+Matrix Compiler1: 24.10 KB object code size  3.1/1.2/[0.7]
+Matrix Compiler2: 16.64 KB object code size  0.9/1.3/[0.7]
+

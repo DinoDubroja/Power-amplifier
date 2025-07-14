@@ -1,0 +1,238 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\Amplifier\OLD\DC servo\DC servo - trans.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Node N014 is floating.
+
+WARNING: Less than two connections to node n014.  This node is used by c4.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 7.08607e-05
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 7.12539e-05
+vernier = 0.0104167
+Gmin = 6.96053e-05
+vernier = 0.0138889
+vernier = 0.0185185
+Gmin = 6.69246e-05
+vernier = 0.0246913
+vernier = 0.0329218
+Gmin = 6.28665e-05
+vernier = 0.0438957
+Gmin = 5.69823e-05
+vernier = 0.0585276
+vernier = 0.0780367
+Gmin = 4.8342e-05
+vernier = 0.104049
+vernier = 0.138732
+Gmin = 3.72402e-05
+vernier = 0.0693659
+vernier = 0.034683
+vernier = 0.0173415
+vernier = 0.00867074
+vernier = 0.00433537
+vernier = 0.00216769
+Gmin = 3.59529e-05
+vernier = 0.00289025
+vernier = 0.00385366
+Gmin = 3.57049e-05
+vernier = 0.00513821
+Gmin = 3.53061e-05
+vernier = 0.00685095
+vernier = 0.0091346
+Gmin = 3.46626e-05
+vernier = 0.0121795
+vernier = 0.0162393
+Gmin = 3.36672e-05
+vernier = 0.0216524
+Gmin = 3.21134e-05
+vernier = 0.0288698
+vernier = 0.0384931
+Gmin = 2.97252e-05
+vernier = 0.0513241
+vernier = 0.0684321
+Gmin = 2.63062e-05
+vernier = 0.0912428
+Gmin = 2.15897e-05
+vernier = 0.121657
+vernier = 0.162209
+Gmin = 1.56526e-05
+vernier = 0.216279
+vernier = 0.288372
+Gmin = 9.44816e-06
+vernier = 0.384496
+Gmin = 4.21586e-06
+vernier = 0.512661
+vernier = 0.683548
+Gmin = 1.16211e-06
+vernier = 0.911397
+vernier = 1
+Gmin = 1.69013e-07
+Gmin = 1.81477e-08
+Gmin = 1.94859e-09
+Gmin = 2.09228e-10
+Gmin = 2.24657e-11
+Gmin = 2.41224e-12
+Gmin = 2.59012e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+.step r=0.25
+Heightened Def Con from 1.98922e-07 +++++++++++++++++++++++++++++++++++to 1.98922e-07
+Heightened Def Con from 1.98922e-07 ++++++++++++++++++to 2.00047e-07
+Heightened Def Con from 4.36798e-07 ++to 4.36814e-07
+Heightened Def Con from 5.75999e-06 to 5.76e-06
+Heightened Def Con from 5.77597e-06 to 5.7781e-06
+N-Period=100
+Fourier components of V(vout)
+DC component:9.91923
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 1.972e-1	 1.000e+0	 -156.75°	    0.00°
+    2   	 2.000e+4	 1.728e-1	 8.763e-1	 -134.47°	   22.28°
+    3   	 3.000e+4	 1.379e-1	 6.992e-1	 -114.59°	   42.16°
+    4   	 4.000e+4	 1.001e-1	 5.077e-1	  -99.64°	   57.11°
+    5   	 5.000e+4	 6.889e-2	 3.493e-1	  -93.99°	   62.77°
+    6   	 6.000e+4	 5.269e-2	 2.671e-1	  -99.37°	   57.39°
+    7   	 7.000e+4	 4.994e-2	 2.532e-1	 -104.00°	   52.76°
+    8   	 8.000e+4	 4.931e-2	 2.500e-1	 -100.33°	   56.42°
+    9   	 9.000e+4	 4.503e-2	 2.283e-1	  -93.29°	   63.46°
+   10   	 1.000e+5	 3.831e-2	 1.942e-1	  -88.55°	   68.21°
+   11   	 1.100e+5	 3.284e-2	 1.665e-1	  -88.56°	   68.19°
+   12   	 1.200e+5	 3.051e-2	 1.547e-1	  -89.76°	   66.99°
+   13   	 1.300e+5	 2.941e-2	 1.491e-1	  -87.33°	   69.42°
+   14   	 1.400e+5	 2.712e-2	 1.375e-1	  -82.05°	   74.70°
+   15   	 1.500e+5	 2.339e-2	 1.186e-1	  -77.75°	   79.01°
+   16   	 1.600e+5	 1.971e-2	 9.994e-2	  -77.56°	   79.19°
+   17   	 1.700e+5	 1.748e-2	 8.864e-2	  -80.44°	   76.31°
+   18   	 1.800e+5	 1.631e-2	 8.270e-2	  -81.86°	   74.89°
+   19   	 1.900e+5	 1.486e-2	 7.535e-2	  -81.16°	   75.59°
+   20   	 2.000e+5	 1.283e-2	 6.505e-2	  -82.40°	   74.36°
+Partial Harmonic Distortion: 143.728707%
+Total Harmonic Distortion:   599.264777%
+
+
+.step r=0.5
+N-Period=100
+Fourier components of V(vout)
+DC component:9.91992
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 1.972e-1	 1.000e+0	 -156.74°	    0.00°
+    2   	 2.000e+4	 1.728e-1	 8.763e-1	 -134.47°	   22.28°
+    3   	 3.000e+4	 1.379e-1	 6.992e-1	 -114.59°	   42.15°
+    4   	 4.000e+4	 1.002e-1	 5.077e-1	  -99.64°	   57.10°
+    5   	 5.000e+4	 6.889e-2	 3.493e-1	  -93.99°	   62.75°
+    6   	 6.000e+4	 5.269e-2	 2.671e-1	  -99.37°	   57.37°
+    7   	 7.000e+4	 4.994e-2	 2.532e-1	 -104.00°	   52.74°
+    8   	 8.000e+4	 4.931e-2	 2.500e-1	 -100.34°	   56.40°
+    9   	 9.000e+4	 4.503e-2	 2.283e-1	  -93.30°	   63.44°
+   10   	 1.000e+5	 3.831e-2	 1.942e-1	  -88.56°	   68.18°
+   11   	 1.100e+5	 3.285e-2	 1.665e-1	  -88.57°	   68.17°
+   12   	 1.200e+5	 3.052e-2	 1.547e-1	  -89.78°	   66.96°
+   13   	 1.300e+5	 2.942e-2	 1.492e-1	  -87.34°	   69.40°
+   14   	 1.400e+5	 2.713e-2	 1.376e-1	  -82.06°	   74.68°
+   15   	 1.500e+5	 2.341e-2	 1.187e-1	  -77.75°	   78.99°
+   16   	 1.600e+5	 1.972e-2	 1.000e-1	  -77.56°	   79.18°
+   17   	 1.700e+5	 1.750e-2	 8.870e-2	  -80.43°	   76.31°
+   18   	 1.800e+5	 1.632e-2	 8.275e-2	  -81.83°	   74.91°
+   19   	 1.900e+5	 1.487e-2	 7.539e-2	  -81.13°	   75.62°
+   20   	 2.000e+5	 1.284e-2	 6.508e-2	  -82.35°	   74.40°
+Partial Harmonic Distortion: 143.731319%
+Total Harmonic Distortion:   599.267007%
+
+.step r=0.75
+N-Period=100
+Fourier components of V(vout)
+DC component:9.92061
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 1.973e-1	 1.000e+0	 -156.73°	    0.00°
+    2   	 2.000e+4	 1.729e-1	 8.763e-1	 -134.46°	   22.27°
+    3   	 3.000e+4	 1.379e-1	 6.992e-1	 -114.59°	   42.14°
+    4   	 4.000e+4	 1.002e-1	 5.078e-1	  -99.64°	   57.09°
+    5   	 5.000e+4	 6.890e-2	 3.493e-1	  -93.99°	   62.74°
+    6   	 6.000e+4	 5.270e-2	 2.671e-1	  -99.37°	   57.36°
+    7   	 7.000e+4	 4.995e-2	 2.532e-1	 -104.00°	   52.73°
+    8   	 8.000e+4	 4.932e-2	 2.500e-1	 -100.33°	   56.40°
+    9   	 9.000e+4	 4.504e-2	 2.283e-1	  -93.30°	   63.43°
+   10   	 1.000e+5	 3.832e-2	 1.942e-1	  -88.55°	   68.18°
+   11   	 1.100e+5	 3.286e-2	 1.665e-1	  -88.56°	   68.17°
+   12   	 1.200e+5	 3.052e-2	 1.547e-1	  -89.77°	   66.96°
+   13   	 1.300e+5	 2.942e-2	 1.491e-1	  -87.33°	   69.40°
+   14   	 1.400e+5	 2.713e-2	 1.375e-1	  -82.05°	   74.68°
+   15   	 1.500e+5	 2.340e-2	 1.186e-1	  -77.74°	   78.99°
+   16   	 1.600e+5	 1.972e-2	 9.997e-2	  -77.55°	   79.18°
+   17   	 1.700e+5	 1.749e-2	 8.866e-2	  -80.43°	   76.30°
+   18   	 1.800e+5	 1.632e-2	 8.271e-2	  -81.84°	   74.88°
+   19   	 1.900e+5	 1.487e-2	 7.536e-2	  -81.15°	   75.58°
+   20   	 2.000e+5	 1.283e-2	 6.506e-2	  -82.38°	   74.35°
+Partial Harmonic Distortion: 143.734054%
+Total Harmonic Distortion:   599.278797%
+
+.step r=0.999
+N-Period=100
+Fourier components of V(vout)
+DC component:9.92373
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 1.973e-1	 1.000e+0	 -156.68°	    0.00°
+    2   	 2.000e+4	 1.729e-1	 8.763e-1	 -134.44°	   22.24°
+    3   	 3.000e+4	 1.380e-1	 6.992e-1	 -114.57°	   42.10°
+    4   	 4.000e+4	 1.002e-1	 5.078e-1	  -99.63°	   57.04°
+    5   	 5.000e+4	 6.894e-2	 3.493e-1	  -93.99°	   62.69°
+    6   	 6.000e+4	 5.273e-2	 2.672e-1	  -99.36°	   57.31°
+    7   	 7.000e+4	 4.998e-2	 2.532e-1	 -103.99°	   52.69°
+    8   	 8.000e+4	 4.934e-2	 2.500e-1	 -100.33°	   56.35°
+    9   	 9.000e+4	 4.506e-2	 2.283e-1	  -93.30°	   63.38°
+   10   	 1.000e+5	 3.834e-2	 1.943e-1	  -88.56°	   68.12°
+   11   	 1.100e+5	 3.287e-2	 1.666e-1	  -88.57°	   68.10°
+   12   	 1.200e+5	 3.054e-2	 1.548e-1	  -89.77°	   66.90°
+   13   	 1.300e+5	 2.944e-2	 1.492e-1	  -87.34°	   69.33°
+   14   	 1.400e+5	 2.715e-2	 1.376e-1	  -82.06°	   74.62°
+   15   	 1.500e+5	 2.342e-2	 1.187e-1	  -77.76°	   78.92°
+   16   	 1.600e+5	 1.974e-2	 1.000e-1	  -77.57°	   79.11°
+   17   	 1.700e+5	 1.751e-2	 8.871e-2	  -80.44°	   76.24°
+   18   	 1.800e+5	 1.633e-2	 8.276e-2	  -81.84°	   74.83°
+   19   	 1.900e+5	 1.488e-2	 7.540e-2	  -81.14°	   75.54°
+   20   	 2.000e+5	 1.285e-2	 6.510e-2	  -82.36°	   74.31°
+Partial Harmonic Distortion: 143.743159%
+Total Harmonic Distortion:   599.307853%
+
+
+Date: Fri Jun 20 21:33:14 2025
+Total elapsed time: 2.907 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 17626
+traniter = 16097
+tranpoints = 2889
+accept = 1761
+rejected = 1221
+matrix size = 315
+fillins = 596
+solver = Normal
+Avg thread counts: 1.5/5.3/5.0/1.5
+Matrix Compiler1: 54.34 KB object code size  9.5/5.0/[2.1]
+Matrix Compiler2: 37.06 KB object code size  3.5/3.9/[1.8]
+
