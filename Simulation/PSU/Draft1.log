@@ -1,0 +1,31 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\PSU\Draft1.asc
+
+Questionable use of curly braces in "b§e_abm1 vyy 0 v={max(v(vxx),(v(vzz)+({ilim}*{rout})))}"
+    Error: undefined symbol in: "max([v](vxx),(v(vzz)+((ilim)*(rout))))"
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Less than two connections to node u1:n350468.  This node is used by e:u1:_abm2.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:adj)
+Ignoring empty pin current: Ix(u1:adj)
+
+Date: Sun Apr 13 18:16:13 2025
+Total elapsed time: 0.130 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3507
+traniter = 3500
+tranpoints = 1751
+accept = 1360
+rejected = 391
+matrix size = 54
+fillins = 43
+solver = Normal
+Avg thread counts: 3.1/5.2/5.2/3.1
+Matrix Compiler1: 4.25 KB object code size  1.4/0.5/[0.3]
+Matrix Compiler2: 4.39 KB object code size  0.4/0.5/[0.3]
+

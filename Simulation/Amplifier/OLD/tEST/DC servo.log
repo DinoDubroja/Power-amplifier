@@ -1,0 +1,154 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\Amplifier\OLD\tEST\DC servo.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Node N014 is floating.
+
+WARNING: Less than two connections to node nc_01.  This node is used by r12.
+WARNING: Less than two connections to node nc_02.  This node is used by r16.
+WARNING: Less than two connections to node n014.  This node is used by c4.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.31128
+vernier = 0.0416667
+Gmin = 1.19447
+vernier = 0.0555555
+vernier = 0.074074
+Gmin = 1.02178
+vernier = 0.037037
+vernier = 0.0185185
+vernier = 0.00925925
+Gmin = 1.0193
+vernier = 0.0123457
+vernier = 0.00617283
+vernier = 0.00308642
+vernier = 0.00411522
+Gmin = 1.01329
+vernier = 0.00548696
+Gmin = 1.00087
+vernier = 0.00274348
+vernier = 0.00137174
+vernier = 0.00068587
+vernier = 0.000514403
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 6.25%
+vernier = 0.015625
+Source Step = 6.53409%
+Source Step = 7.00758%
+Source Step = 7.48106%
+Source Step = 7.95455%
+Source Step = 8.42803%
+vernier = 0.0234375
+Source Step = 9.11458%
+Source Step = 9.82481%
+Source Step = 10.535%
+Source Step = 11.2453%
+Source Step = 11.9555%
+vernier = 0.0351562
+Source Step = 12.9498%
+Source Step = 14.0152%
+Source Step = 15.0805%
+Source Step = 16.1458%
+Source Step = 17.2112%
+vernier = 0.0527344
+Source Step = 18.6494%
+Source Step = 20.2474%
+Source Step = 21.8454%
+Source Step = 23.4434%
+Source Step = 25.0414%
+vernier = 0.0791016
+Source Step = 27.1188%
+Source Step = 29.5159%
+Source Step = 31.9129%
+Source Step = 34.3099%
+Source Step = 36.7069%
+vernier = 0.118652
+Source Step = 39.7032%
+Source Step = 43.2987%
+Source Step = 46.8942%
+Source Step = 50.4898%
+Source Step = 54.0853%
+vernier = 0.177979
+Source Step = 58.3999%
+Source Step = 63.7932%
+Source Step = 69.1865%
+Source Step = 74.5798%
+Source Step = 79.9731%
+vernier = 0.266968
+Source Step = 86.1754%
+vernier = 0.0667419
+Source Step = 86.1848%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 69.697%
+Source Step = 71.5909%
+Source Step = 71.6383%
+Source Step = 71.6679%
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 18.5152 s.
+N-Period=100
+Fourier components of V(vout)
+DC component:-0.000835416
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 9.991e+0	 1.000e+0	   90.11°	    0.00°
+    2   	 2.000e+4	 1.724e-3	 1.726e-4	    9.45°	  -80.65°
+    3   	 3.000e+4	 1.053e-3	 1.054e-4	    7.93°	  -82.18°
+    4   	 4.000e+4	 1.735e-3	 1.736e-4	   -7.02°	  -97.12°
+    5   	 5.000e+4	 1.692e-3	 1.694e-4	  -75.78°	 -165.89°
+    6   	 6.000e+4	 1.322e-3	 1.323e-4	  177.49°	   87.38°
+    7   	 7.000e+4	 1.485e-3	 1.487e-4	   74.86°	  -15.25°
+    8   	 8.000e+4	 9.863e-4	 9.871e-5	   10.05°	  -80.05°
+    9   	 9.000e+4	 3.848e-4	 3.852e-5	   27.02°	  -63.09°
+   10   	 1.000e+5	 9.211e-4	 9.219e-5	   24.40°	  -65.71°
+   11   	 1.100e+5	 5.783e-4	 5.788e-5	  -19.57°	 -109.68°
+   12   	 1.200e+5	 2.842e-4	 2.845e-5	   72.69°	  -17.42°
+   13   	 1.300e+5	 6.782e-4	 6.788e-5	   25.77°	  -64.34°
+   14   	 1.400e+5	 4.229e-4	 4.233e-5	   -3.41°	  -93.52°
+   15   	 1.500e+5	 3.224e-4	 3.227e-5	   56.82°	  -33.29°
+   16   	 1.600e+5	 4.846e-4	 4.850e-5	   55.10°	  -35.01°
+   17   	 1.700e+5	 5.807e-4	 5.812e-5	   52.74°	  -37.37°
+   18   	 1.800e+5	 7.001e-4	 7.007e-5	   35.29°	  -54.82°
+   19   	 1.900e+5	 4.802e-4	 4.806e-5	   17.68°	  -72.43°
+   20   	 2.000e+5	 3.972e-4	 3.975e-5	   50.90°	  -39.20°
+Partial Harmonic Distortion: 0.043036%
+Total Harmonic Distortion:   3.023689%
+
+
+
+Date: Sun Jun 15 20:21:47 2025
+Total elapsed time: 2.628 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 21114
+traniter = 3297
+tranpoints = 1523
+accept = 1368
+rejected = 379
+matrix size = 316
+fillins = 959
+solver = Normal
+Avg thread counts: 3.2/6.0/5.8/3.2
+Matrix Compiler1: 77.41 KB object code size  10.0/3.5/[2.1]
+Matrix Compiler2: 43.56 KB object code size  3.4/4.0/[1.7]
+

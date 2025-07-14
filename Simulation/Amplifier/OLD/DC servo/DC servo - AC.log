@@ -1,0 +1,210 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\Amplifier\DC servo\DC servo - AC.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.31128
+vernier = 0.0416667
+Gmin = 1.19447
+vernier = 0.0555555
+vernier = 0.074074
+vernier = 0.037037
+Gmin = 1.0697
+vernier = 0.0185185
+vernier = 0.0246913
+Gmin = 1.02616
+vernier = 0.0123457
+vernier = 0.0164609
+vernier = 0.00823044
+vernier = 0.00411522
+vernier = 0.00205761
+Gmin = 1.0167
+vernier = 0.00102881
+vernier = 0.000514403
+vernier = 0.00068587
+Gmin = 1.01553
+vernier = 0.000914493
+vernier = 0.00121932
+Gmin = 1.0133
+vernier = 0.00162576
+Gmin = 1.00971
+vernier = 0.00216769
+vernier = 0.00289025
+Gmin = 1.00384
+vernier = 0.00385366
+vernier = 0.00192683
+vernier = 0.000963415
+vernier = 0.000481708
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.378788%
+Source Step = 0.852273%
+Source Step = 1.32576%
+Source Step = 1.79924%
+Source Step = 2.27273%
+vernier = 0.0234375
+Source Step = 2.91193%
+Source Step = 3.62216%
+Source Step = 4.33239%
+Source Step = 5.04261%
+Source Step = 5.75284%
+vernier = 0.0351562
+Source Step = 6.67614%
+Source Step = 7.74148%
+Source Step = 8.80682%
+Source Step = 9.87216%
+Source Step = 10.9375%
+vernier = 0.0527344
+Source Step = 12.2692%
+Source Step = 13.8672%
+Source Step = 15.4652%
+Source Step = 17.0632%
+Source Step = 18.6612%
+vernier = 0.0791016
+Source Step = 19.8747%
+vernier = 0.00123596
+Source Step = 19.8972%
+Source Step = 19.9346%
+Source Step = 19.9721%
+Source Step = 20.0095%
+Source Step = 20.047%
+vernier = 0.00185394
+Source Step = 20.0919%
+Source Step = 20.1481%
+Source Step = 20.2043%
+Source Step = 20.2605%
+Source Step = 20.3167%
+vernier = 0.00278091
+Source Step = 20.3813%
+Source Step = 20.4655%
+Source Step = 20.5498%
+Source Step = 20.6341%
+Source Step = 20.7183%
+vernier = 0.00417137
+Source Step = 20.811%
+Source Step = 20.9375%
+Source Step = 21.0639%
+Source Step = 21.1903%
+Source Step = 21.3167%
+vernier = 0.00625706
+Source Step = 21.4494%
+Source Step = 21.639%
+Source Step = 21.8286%
+Source Step = 22.0182%
+Source Step = 22.2078%
+Source Step = 22.3974%
+vernier = 0.00938559
+Source Step = 22.6818%
+Source Step = 22.9663%
+Source Step = 23.2507%
+Source Step = 23.5351%
+Source Step = 23.8195%
+vernier = 0.0140784
+Source Step = 24.2319%
+Source Step = 24.6585%
+Source Step = 25.0851%
+Source Step = 25.5117%
+Source Step = 25.9384%
+vernier = 0.0211176
+Source Step = 26.5356%
+Source Step = 27.1755%
+Source Step = 27.8155%
+Source Step = 28.4554%
+Source Step = 29.0953%
+vernier = 0.0316764
+Source Step = 29.9592%
+Source Step = 30.9191%
+Source Step = 31.879%
+Source Step = 32.8389%
+Source Step = 33.7988%
+vernier = 0.0475145
+Source Step = 35.0466%
+Source Step = 36.4865%
+Source Step = 37.9263%
+Source Step = 39.3661%
+Source Step = 40.806%
+vernier = 0.0712718
+Source Step = 42.6058%
+Source Step = 44.7655%
+Source Step = 46.9253%
+Source Step = 49.085%
+Source Step = 51.2448%
+Source Step = 51.7307%
+Source Step = 52.2707%
+Source Step = 52.8106%
+Source Step = 53.3505%
+Source Step = 53.8905%
+vernier = 0.0267269
+Source Step = 54.6464%
+Source Step = 55.4563%
+Source Step = 56.2662%
+Source Step = 57.0761%
+Source Step = 57.886%
+vernier = 0.0400904
+Source Step = 58.9794%
+Source Step = 60.1942%
+Source Step = 61.4091%
+Source Step = 62.624%
+Source Step = 63.8388%
+vernier = 0.0601356
+Source Step = 65.4181%
+Source Step = 67.2404%
+Source Step = 69.0627%
+Source Step = 70.885%
+Source Step = 72.7073%
+vernier = 0.0902034
+Source Step = 74.9852%
+Source Step = 77.7186%
+Source Step = 80.452%
+Source Step = 83.1855%
+Source Step = 85.9189%
+vernier = 0.135305
+Source Step = 89.199%
+Source Step = 90.4547%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 72.5379%
+Source Step = 74.4318%
+Source Step = 76.3258%
+Source Step = 77.8883%
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 18.9838 s.
+Note: .fourier statements are only valid with a .tran command.
+      No Fourier analysis performed.
+
+
+Date: Tue Jun 17 13:59:33 2025
+Total elapsed time: 2.673 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 24486
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 327
+matrix size = 314
+fillins = 1106
+solver = Normal
+Avg thread counts: 1.3/7.2/1.8/1.3
+Matrix Compiler1:    5399 opcodes  10.5/[4.0]/4.3
+Matrix Compiler2: 46.20 KB object code size  2.5/3.7/[1.6]
+

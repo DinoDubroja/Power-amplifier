@@ -1,0 +1,62 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\Class AB\AB - AC.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Diodes ---
+Name:      d1          d2          d3          d4      d:u1:_u1:1
+Model:   1n4148      1n4148      1n4148      1n4148    u1:_u1:dvn
+Id:      1.46e-02    1.46e-02    1.46e-02    1.46e-02    1.00e-02
+Vd:      7.14e-01    7.14e-01    7.14e-01    7.14e-01    8.34e-01
+Req:     3.11e+00    3.11e+00    3.11e+00    3.11e+00    2.59e+00
+CAP:     6.43e-09    6.43e-09    6.43e-09    6.43e-09    0.00e+00
+
+Name:  d:u1:_u1:2  d:u1:_u39:1  d:u1:_u39:2  d:u1:_u40:1  d:u1:_u40:2
+Model: u1:_u1:dvn  u1:_u39:dvnf u1:_u39:dvnf u1:_u40:dvnf u1:_u40:dvnf
+Id:      1.00e-02     1.00e-02     1.00e-02     1.00e-02     1.00e-02
+Vd:      8.34e-01     8.34e-01     8.34e-01     8.34e-01     8.34e-01
+Req:     2.59e+00     2.59e+00     2.59e+00     2.59e+00     2.59e+00
+CAP:     0.00e+00     0.00e+00     0.00e+00     0.00e+00     0.00e+00
+
+                        --- Bipolar Transistors ---
+Name:       q1          q2          q3          q4
+Model:    tip35c      tip36c       bd140       bd139
+Ib:       8.01e-04   -8.01e-04   -7.70e-06    1.01e-05
+Ic:       2.94e-01   -2.94e-01   -2.10e-03    2.10e-03
+Vbe:      5.50e-01   -5.50e-01   -8.13e-01    8.12e-01
+Vbc:     -1.54e+01    1.54e+01    1.46e+01   -1.46e+01
+Vce:      1.59e+01   -1.59e+01   -1.54e+01    1.54e+01
+BetaDC:   3.67e+02    3.67e+02    2.73e+02    2.07e+02
+Gm:       1.16e+01    1.16e+01    8.25e-02    8.25e-02
+Rpi:      3.07e+01    3.07e+01    3.30e+03    2.51e+03
+Rx:       2.05e+01    2.05e+01    7.64e-02    5.80e-01
+Ro:       1.30e+02    1.30e+02    2.57e+04    7.65e+04
+Cbe:      6.86e-07    7.95e-07    7.59e-12    2.64e-10
+Cbc:      8.90e-11    8.90e-11    1.80e-13    1.07e-11
+Cjs:      0.00e+00    0.00e+00    0.00e+00    0.00e+00
+BetaAC:   3.55e+02    3.55e+02    2.72e+02    2.07e+02
+Cbx:      2.18e-11    2.18e-11    0.00e+00    0.00e+00
+Ft:       2.68e+06    2.31e+06    1.69e+09    4.78e+07
+
+
+
+Date: Wed Mar 19 19:17:14 2025
+Total elapsed time: 0.156 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 8
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 173
+fillins = 207
+solver = Normal
+Avg thread counts: 20.0/0.0/20.0/1.9
+Matrix Compiler1:    1167 opcodes
+Matrix Compiler2: 18.40 KB object code size

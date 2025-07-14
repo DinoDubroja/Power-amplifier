@@ -1,0 +1,23 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation V2\Gain stage\Gain stage trans.asc
+
+Limiting fall time of source v1 to 2
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Mar 13 11:59:37 2025
+Total elapsed time: 0.484 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16142
+traniter = 16137
+tranpoints = 4392
+accept = 3547
+rejected = 845
+matrix size = 421
+fillins = 555
+solver = Normal
+Avg thread counts: 1.5/2.7/1.7/1.5
+Matrix Compiler1: 51.07 KB object code size  8.5/3.3/[2.0]
+Matrix Compiler2: 45.45 KB object code size  3.5/3.2/[1.9]
+

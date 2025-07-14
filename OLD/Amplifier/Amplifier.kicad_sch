@@ -1,0 +1,247 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "62ed28c4-d7bf-49b7-890f-08df6d31ef23")
+	(paper "A4")
+	(title_block
+		(date "2025-02-15")
+	)
+	(lib_symbols)
+	(sheet
+		(at 99.06 57.15)
+		(size 66.04 26.67)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3a9f256d-cfc9-48e5-9914-f8d8297a6a52")
+		(property "Sheetname" "Power amplifier 2"
+			(at 132.334 70.358 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+			)
+		)
+		(property "Sheetfile" "Power amplifier 2.kicad_sch"
+			(at 99.06 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplifier"
+				(path "/62ed28c4-d7bf-49b7-890f-08df6d31ef23"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 21.59)
+		(size 66.04 26.67)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "65557c91-2b5b-43ea-a193-bb6866407cf1")
+		(property "Sheetname" "Preamplifier"
+			(at 53.594 34.798 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+			)
+		)
+		(property "Sheetfile" "Preamplifier.kicad_sch"
+			(at 20.32 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplifier"
+				(path "/62ed28c4-d7bf-49b7-890f-08df6d31ef23"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 55.88)
+		(size 66.04 26.67)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9833fcd2-b03d-40ed-9a04-676fb5866f71")
+		(property "Sheetname" "Preamplifier - gain"
+			(at 29.464 70.866 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Preamplifier - gain.kicad_sch"
+			(at 20.574 84.836 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplifier"
+				(path "/62ed28c4-d7bf-49b7-890f-08df6d31ef23"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 21.59)
+		(size 66.04 26.67)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e8e29e00-cbc9-42fc-b98d-1503b0ac2566")
+		(property "Sheetname" "Power amplifier"
+			(at 132.334 34.798 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+			)
+		)
+		(property "Sheetfile" "Power amplifier.kicad_sch"
+			(at 99.06 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplifier"
+				(path "/62ed28c4-d7bf-49b7-890f-08df6d31ef23"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 111.76)
+		(size 66.04 26.67)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eeb773ee-f444-42e2-85a3-b1ec4b4be26f")
+		(property "Sheetname" "Mechanical"
+			(at 35.814 126.746 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mechanical.kicad_sch"
+			(at 19.304 140.716 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplifier"
+				(path "/62ed28c4-d7bf-49b7-890f-08df6d31ef23"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 143.51)
+		(size 66.04 26.67)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fcf9c156-e37e-4698-a011-ee1557d1ccd3")
+		(property "Sheetname" "Relay driving"
+			(at 35.56 158.496 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Relay driving.kicad_sch"
+			(at 19.304 172.466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplifier"
+				(path "/62ed28c4-d7bf-49b7-890f-08df6d31ef23"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

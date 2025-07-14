@@ -1,0 +1,56 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\Amplifier\OLD\tEST\Draft1.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+N-Period=100
+Fourier components of V(vout)
+DC component:-0.00107841
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 1.000e+1	 1.000e+0	   90.11°	    0.00°
+    2   	 2.000e+4	 1.263e-3	 1.263e-4	   11.84°	  -78.27°
+    3   	 3.000e+4	 5.536e-4	 5.536e-5	    8.36°	  -81.75°
+    4   	 4.000e+4	 1.262e-3	 1.262e-4	  -11.01°	 -101.12°
+    5   	 5.000e+4	 1.770e-3	 1.770e-4	  -91.77°	 -181.88°
+    6   	 6.000e+4	 1.827e-3	 1.827e-4	 -178.37°	 -268.48°
+    7   	 7.000e+4	 1.290e-3	 1.290e-4	   92.20°	    2.09°
+    8   	 8.000e+4	 4.715e-4	 4.715e-5	    0.07°	  -90.05°
+    9   	 9.000e+4	 1.173e-4	 1.173e-5	  160.15°	   70.03°
+   10   	 1.000e+5	 4.166e-4	 4.166e-5	   24.38°	  -65.73°
+   11   	 1.100e+5	 3.884e-4	 3.884e-5	  -79.50°	 -169.61°
+   12   	 1.200e+5	 3.251e-4	 3.251e-5	  171.39°	   81.27°
+   13   	 1.300e+5	 2.015e-4	 2.015e-5	   16.69°	  -73.42°
+   14   	 1.400e+5	 2.548e-4	 2.548e-5	  -87.13°	 -177.24°
+   15   	 1.500e+5	 2.198e-4	 2.198e-5	 -177.26°	 -267.37°
+   16   	 1.600e+5	 1.500e-4	 1.500e-5	  144.35°	   54.23°
+   17   	 1.700e+5	 1.772e-4	 1.772e-5	  101.90°	   11.79°
+   18   	 1.800e+5	 2.296e-4	 2.296e-5	   23.74°	  -66.37°
+   19   	 1.900e+5	 1.932e-4	 1.932e-5	  -66.06°	 -156.18°
+   20   	 2.000e+5	 8.052e-5	 8.051e-6	  178.51°	   88.39°
+Partial Harmonic Distortion: 0.035496%
+Total Harmonic Distortion:   0.039185%
+
+
+
+Date: Sun Jun 15 20:23:21 2025
+Total elapsed time: 0.127 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3278
+traniter = 3272
+tranpoints = 1516
+accept = 1371
+rejected = 145
+matrix size = 174
+fillins = 226
+solver = Normal
+Avg thread counts: 3.2/5.9/5.8/3.2
+Matrix Compiler1: 22.33 KB object code size  2.8/1.5/[0.8]
+Matrix Compiler2: 18.91 KB object code size  1.0/1.6/[0.6]
+

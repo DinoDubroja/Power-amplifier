@@ -1,0 +1,27 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\Power amp with DC servo\power amp with DC servo - trans.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Limiting fall time of source v1 to 20
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Mar 10 21:14:02 2025
+Total elapsed time: 1.333 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 37325
+traniter = 37316
+tranpoints = 14059
+accept = 13005
+rejected = 1054
+matrix size = 440
+fillins = 591
+solver = Normal
+Avg thread counts: 1.2/1.5/1.3/1.2
+Matrix Compiler1: 56.08 KB object code size  9.2/4.5/[3.0]
+Matrix Compiler2: 48.04 KB object code size  3.9/5.1/[2.0]
+

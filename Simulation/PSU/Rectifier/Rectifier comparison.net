@@ -1,0 +1,24 @@
+* C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\PSU\Rectifier\Rectifier comparison.asc
+D1 V- N005 D
+D2 N005 V+ D
+D3 V- N006 D
+D4 N006 V+ D
+V1 N005 0 SINE(0 21 50)
+V2 0 N006 SINE(0 21 50)
+C1 V+ 0 4700µ
+C2 0 V- 4700µ
+R1 V+ 0 6
+R2 0 V- 6
+V3 N001 0 SINE(0 21 50)
+V4 0 N003 SINE(0 21 50)
+D5 N001 N002 D
+D6 N004 N003 D
+C3 N002 0 1000µ
+C4 0 N004 1000µ
+R3 N002 0 100
+R4 0 N004 100
+.model D D
+.lib C:\Users\dinod\AppData\Local\LTspice\lib\cmp\standard.dio
+.tran 200m
+.backanno
+.end

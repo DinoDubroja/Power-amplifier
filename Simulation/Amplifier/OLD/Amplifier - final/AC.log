@@ -1,0 +1,143 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\Amplifier\Amplifier - final\AC.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.30112
+vernier = 0.0416667
+vernier = 0.0555555
+Gmin = 1.17811
+vernier = 0.074074
+vernier = 0.037037
+Gmin = 1.05988
+vernier = 0.0185185
+vernier = 0.0246913
+vernier = 0.0123457
+Gmin = 1.03567
+vernier = 0.0164609
+vernier = 0.00823044
+Gmin = 1.0146
+vernier = 0.00411522
+vernier = 0.00205761
+vernier = 0.00274348
+Gmin = 1.012
+vernier = 0.00365797
+vernier = 0.0048773
+Gmin = 1.00317
+vernier = 0.00243865
+vernier = 0.00121932
+vernier = 0.000609662
+vernier = 0.000457246
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.378788%
+Source Step = 0.852273%
+Source Step = 1.32576%
+Source Step = 1.79924%
+Source Step = 2.27273%
+vernier = 0.0234375
+Source Step = 2.91193%
+Source Step = 3.62216%
+Source Step = 4.33239%
+Source Step = 5.04261%
+Source Step = 5.75284%
+vernier = 0.0351562
+Source Step = 6.06357%
+Source Step = 6.13015%
+Source Step = 6.19673%
+Source Step = 6.26332%
+Source Step = 6.3299%
+Source Step = 6.39648%
+vernier = 0.0032959
+Source Step = 6.4897%
+Source Step = 6.58958%
+Source Step = 6.68945%
+Source Step = 6.78933%
+Source Step = 6.8892%
+vernier = 0.00494385
+Source Step = 7.02404%
+Source Step = 7.17385%
+Source Step = 7.32366%
+Source Step = 7.47348%
+Source Step = 7.62329%
+vernier = 0.00741577
+Source Step = 7.81805%
+Source Step = 8.04277%
+Source Step = 8.26749%
+Source Step = 8.49221%
+Source Step = 8.71693%
+vernier = 0.0111237
+Source Step = 8.99783%
+Source Step = 9.33491%
+Source Step = 9.67199%
+Source Step = 10.0091%
+Source Step = 10.3462%
+vernier = 0.0166855
+Source Step = 10.7506%
+Source Step = 11.2563%
+Source Step = 11.7619%
+Source Step = 12.2675%
+Source Step = 12.7731%
+vernier = 0.0250282
+Source Step = 13.3546%
+Source Step = 14.113%
+Source Step = 14.8715%
+Source Step = 15.6299%
+Source Step = 16.3883%
+vernier = 0.0375423
+Source Step = 17.2226%
+Source Step = 18.3602%
+Source Step = 19.4979%
+Source Step = 20.6355%
+Source Step = 21.7732%
+vernier = 0.0563135
+Source Step = 22.9677%
+Source Step = 24.6742%
+Source Step = 26.3807%
+Source Step = 28.0871%
+Source Step = 29.7936%
+Source Step = 31.5001%
+vernier = 0.0844703
+Source Step = 34.0598%
+Source Step = 36.6195%
+Source Step = 39.1792%
+Source Step = 41.7389%
+Source Step = 44.2986%
+vernier = 0.126705
+Source Step = 48.0102%
+Source Step = 51.8497%
+Source Step = 55.6893%
+Source Step = 59.5288%
+Source Step = 63.3684%
+vernier = 0.190058
+Source Step = 68.7438%
+Source Step = 74.5031%
+Source Step = 80.2624%
+Source Step = 86.0218%
+Source Step = 90.7732%
+vernier = 0.0118786
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 99.0118%
+vernier = 0.000976562
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point at 507.77 µs.
+Fatal Error: Failed to find DC operating point for AC analysis.

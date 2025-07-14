@@ -1,0 +1,82 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\PSU\Current limit\Current limit\Positive - load.asc
+
+ERROR: Node NC_01 is floating and connected to current source I2
+
+WARNING: Less than two connections to node -v.  This node is used by v2.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+vernier = 0.5
+Gmin = 0.0025641
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00262899
+vernier = 0.0833333
+vernier = 0.111111
+Gmin = 0.00210683
+vernier = 0.148148
+vernier = 0.197531
+Gmin = 0.00148673
+vernier = 0.263374
+vernier = 0.131687
+Gmin = 0.000995654
+vernier = 0.0658435
+vernier = 0.0329218
+vernier = 0.0164609
+vernier = 0.00823044
+Gmin = 0.00100146
+vernier = 0.00411522
+vernier = 0.00205761
+vernier = 0.00102881
+vernier = 0.000514403
+Gmin = 0.00100017
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 7.57576%
+Source Step = 15.1515%
+Source Step = 22.7273%
+Source Step = 30.303%
+Source Step = 37.8788%
+vernier = 0.375
+Source Step = 48.8636%
+Source Step = 60.2273%
+Source Step = 71.5909%
+Source Step = 79.6165%
+vernier = 0.00585938
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 99.0118%
+vernier = 0.000976562
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 6.08118 s.
+
+Date: Sat May 24 16:19:04 2025
+Total elapsed time: 1.200 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 40731
+traniter = 6546
+tranpoints = 2110
+accept = 1844
+rejected = 950
+matrix size = 152
+fillins = 291
+solver = Normal
+Avg thread counts: 2.1/4.5/3.4/2.1
+Matrix Compiler1: 24.48 KB object code size  3.3/1.2/[0.7]
+Matrix Compiler2: 17.56 KB object code size  1.0/1.7/[0.7]
+

@@ -1,0 +1,169 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5f1333d7-7a61-49aa-bef3-a54a3d19a11a")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 140.97 29.21)
+		(size 43.18 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "250ff173-255c-482d-9d62-749929004e82")
+		(property "Sheetname" "Over-current"
+			(at 140.97 27.5596 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "over current.kicad_sch"
+			(at 140.97 60.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Power supply"
+				(path "/5f1333d7-7a61-49aa-bef3-a54a3d19a11a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 73.66)
+		(size 43.18 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2f80c67c-cbb9-4ce4-ae69-3011190887a2")
+		(property "Sheetname" "IO"
+			(at 31.75 72.0096 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IO.kicad_sch"
+			(at 31.75 104.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Power supply"
+				(path "/5f1333d7-7a61-49aa-bef3-a54a3d19a11a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 29.21)
+		(size 43.18 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "62a6f7af-d96b-4add-9b8b-55fd87e38969")
+		(property "Sheetname" "Rectifier"
+			(at 31.75 27.5596 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Rectifier.sch.kicad_sch"
+			(at 31.75 60.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Power supply"
+				(path "/5f1333d7-7a61-49aa-bef3-a54a3d19a11a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 29.21)
+		(size 43.18 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e16db55d-4e51-448d-a0e9-7d13ea994568")
+		(property "Sheetname" "Regulator"
+			(at 85.09 27.5596 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 85.09 60.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Power supply"
+				(path "/5f1333d7-7a61-49aa-bef3-a54a3d19a11a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
