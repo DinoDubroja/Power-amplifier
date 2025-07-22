@@ -1,0 +1,311 @@
+Circuit: * C:\Users\dinod\Desktop\Power amplifier\Power-amplifier\Simulation\Amplifier\Output stage - HV\V3 SERVO - DC.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Instance "m:u1:4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:19": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:23": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:57": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:57": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:67": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:67": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:68": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:68": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:41": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:42": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:43": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:44": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:45": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:46": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:58": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:58": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:59": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:64": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:65": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:65": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:66": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:66": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u2:4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:19": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:23": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:57": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:57": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u2:67": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:67": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u2:68": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:68": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u2:41": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:42": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:43": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:44": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:45": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:46": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:58": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:58": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u2:59": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:64": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:65": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:65": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u2:66": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u2:66": Width narrower than recommended for a level 1 MOSFET.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.5165
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 5.6228
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 85.0379%
+vernier = 0.015625
+Source Step = 84.8722%
+Source Step = 84.9018%
+Source Step = 84.9313%
+Source Step = 84.9609%
+Source Step = 84.9905%
+vernier = 0.00146484
+Source Step = 85.0216%
+Source Step = 85.066%
+Source Step = 85.1104%
+Source Step = 85.1548%
+Source Step = 85.1992%
+Source Step = 85.2435%
+vernier = 0.00219727
+Source Step = 85.3101%
+Source Step = 85.3767%
+Source Step = 85.4433%
+Source Step = 85.5099%
+Source Step = 85.5765%
+vernier = 0.0032959
+Source Step = 85.673%
+Source Step = 85.7729%
+Source Step = 85.8728%
+Source Step = 85.9726%
+Source Step = 86.0725%
+vernier = 0.00494385
+Source Step = 86.2123%
+Source Step = 86.3622%
+Source Step = 86.512%
+Source Step = 86.6618%
+Source Step = 86.8116%
+vernier = 0.00741577
+Source Step = 87.0138%
+Source Step = 87.2386%
+Source Step = 87.4633%
+Source Step = 87.688%
+Source Step = 87.9127%
+vernier = 0.0111237
+Source Step = 88.2049%
+Source Step = 88.5419%
+Source Step = 88.879%
+Source Step = 89.2161%
+Source Step = 89.5532%
+vernier = 0.0166855
+Source Step = 89.9745%
+Source Step = 90.4802%
+Source Step = 90.9858%
+Source Step = 91.4914%
+Source Step = 91.997%
+vernier = 0.0250282
+Source Step = 92.6038%
+Source Step = 93.3622%
+Source Step = 94.1206%
+Source Step = 94.8791%
+Source Step = 95.6375%
+vernier = 0.0375423
+Source Step = 96.5097%
+Source Step = 97.6473%
+Source Step = 98.785%
+Source Step = 99.9226%
+Source stepping succeeded in finding the operating point.
+
+.step r=0.01
+N-Period=100
+Fourier components of V(vout)
+DC component:-4.92146e-06
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 5.460e-15	 1.000e+0	   99.50°	    0.00°
+    2   	 2.000e+4	 2.152e-15	 3.941e-1	  112.69°	   13.19°
+    3   	 3.000e+4	 1.776e-15	 3.252e-1	  105.69°	    6.18°
+    4   	 4.000e+4	 2.073e-15	 3.796e-1	  -75.10°	 -174.60°
+    5   	 5.000e+4	 1.650e-15	 3.022e-1	   65.32°	  -34.19°
+    6   	 6.000e+4	 7.690e-15	 1.408e+0	 -173.73°	 -273.23°
+    7   	 7.000e+4	 4.506e-15	 8.252e-1	  -79.89°	 -179.40°
+    8   	 8.000e+4	 6.146e-15	 1.126e+0	 -121.86°	 -221.36°
+    9   	 9.000e+4	 3.786e-15	 6.935e-1	 -130.91°	 -230.42°
+   10   	 1.000e+5	 7.815e-15	 1.431e+0	 -150.28°	 -249.78°
+   11   	 1.100e+5	 6.618e-15	 1.212e+0	 -166.21°	 -265.72°
+   12   	 1.200e+5	 6.901e-15	 1.264e+0	   72.40°	  -27.10°
+   13   	 1.300e+5	 1.210e-14	 2.216e+0	  126.63°	   27.12°
+   14   	 1.400e+5	 2.745e-15	 5.028e-1	  141.00°	   41.50°
+   15   	 1.500e+5	 2.928e-15	 5.364e-1	  170.92°	   71.42°
+   16   	 1.600e+5	 5.896e-15	 1.080e+0	   37.35°	  -62.15°
+   17   	 1.700e+5	 6.645e-15	 1.217e+0	  131.96°	   32.45°
+   18   	 1.800e+5	 1.813e-15	 3.321e-1	 -159.86°	 -259.36°
+   19   	 1.900e+5	 8.132e-15	 1.489e+0	  -96.61°	 -196.11°
+   20   	 2.000e+5	 1.588e-14	 2.909e+0	  100.67°	    1.17°
+Partial Harmonic Distortion: 537.717938%
+Total Harmonic Distortion:   18328.219124%
+
+
+.step r=0.25
+N-Period=100
+Fourier components of V(vout)
+DC component:-4.92146e-06
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 4.629e-15	 1.000e+0	  103.13°	    0.00°
+    2   	 2.000e+4	 2.595e-15	 5.605e-1	   92.65°	  -10.48°
+    3   	 3.000e+4	 1.757e-15	 3.796e-1	  167.20°	   64.07°
+    4   	 4.000e+4	 5.758e-16	 1.244e-1	   38.31°	  -64.82°
+    5   	 5.000e+4	 4.930e-15	 1.065e+0	  126.01°	   22.88°
+    6   	 6.000e+4	 4.912e-15	 1.061e+0	  -14.19°	 -117.33°
+    7   	 7.000e+4	 6.220e-15	 1.344e+0	 -133.31°	 -236.44°
+    8   	 8.000e+4	 6.781e-15	 1.465e+0	  117.22°	   14.09°
+    9   	 9.000e+4	 3.188e-15	 6.886e-1	  -99.20°	 -202.33°
+   10   	 1.000e+5	 1.363e-14	 2.945e+0	  -55.86°	 -158.99°
+   11   	 1.100e+5	 7.682e-15	 1.659e+0	  130.95°	   27.82°
+   12   	 1.200e+5	 3.959e-15	 8.554e-1	 -108.36°	 -211.49°
+   13   	 1.300e+5	 9.167e-16	 1.980e-1	 -166.81°	 -269.94°
+   14   	 1.400e+5	 4.687e-15	 1.012e+0	   33.46°	  -69.67°
+   15   	 1.500e+5	 1.058e-14	 2.286e+0	 -154.23°	 -257.37°
+   16   	 1.600e+5	 9.522e-15	 2.057e+0	  150.41°	   47.28°
+   17   	 1.700e+5	 2.822e-14	 6.096e+0	 -168.30°	 -271.43°
+   18   	 1.800e+5	 2.637e-14	 5.697e+0	  -37.17°	 -140.30°
+   19   	 1.900e+5	 2.071e-14	 4.474e+0	 -109.99°	 -213.12°
+   20   	 2.000e+5	 2.189e-14	 4.729e+0	 -171.54°	 -274.67°
+Partial Harmonic Distortion: 1190.960347%
+Total Harmonic Distortion:   23615.852898%
+
+.step r=0.5
+N-Period=100
+Fourier components of V(vout)
+DC component:-4.92146e-06
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 3.438e-15	 1.000e+0	  101.72°	    0.00°
+    2   	 2.000e+4	 1.043e-15	 3.034e-1	  -14.63°	 -116.35°
+    3   	 3.000e+4	 2.550e-15	 7.417e-1	  -32.87°	 -134.59°
+    4   	 4.000e+4	 3.158e-15	 9.185e-1	 -175.10°	 -276.82°
+    5   	 5.000e+4	 1.228e-15	 3.571e-1	  157.77°	   56.05°
+    6   	 6.000e+4	 3.610e-15	 1.050e+0	   27.05°	  -74.66°
+    7   	 7.000e+4	 6.631e-15	 1.928e+0	   40.09°	  -61.63°
+    8   	 8.000e+4	 4.408e-15	 1.282e+0	  -85.76°	 -187.48°
+    9   	 9.000e+4	 4.100e-15	 1.192e+0	 -125.13°	 -226.84°
+   10   	 1.000e+5	 5.525e-15	 1.607e+0	  105.84°	    4.12°
+   11   	 1.100e+5	 6.665e-15	 1.938e+0	  -72.74°	 -174.46°
+   12   	 1.200e+5	 7.885e-16	 2.293e-1	  -68.33°	 -170.04°
+   13   	 1.300e+5	 5.966e-15	 1.735e+0	  138.19°	   36.47°
+   14   	 1.400e+5	 2.034e-14	 5.915e+0	   44.80°	  -56.91°
+   15   	 1.500e+5	 1.457e-14	 4.238e+0	  -66.32°	 -168.04°
+   16   	 1.600e+5	 2.020e-14	 5.876e+0	 -164.99°	 -266.70°
+   17   	 1.700e+5	 1.036e-14	 3.012e+0	  108.82°	    7.11°
+   18   	 1.800e+5	 9.017e-15	 2.622e+0	   78.91°	  -22.81°
+   19   	 1.900e+5	 5.739e-15	 1.669e+0	  -60.99°	 -162.71°
+   20   	 2.000e+5	 4.880e-15	 1.419e+0	  110.77°	    9.05°
+Partial Harmonic Distortion: 1127.521864%
+Total Harmonic Distortion:   26336.477913%
+
+.step r=0.75
+N-Period=100
+Fourier components of V(vout)
+DC component:-4.92146e-06
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 6.016e-15	 1.000e+0	   98.80°	    0.00°
+    2   	 2.000e+4	 4.251e-15	 7.065e-1	  113.17°	   14.37°
+    3   	 3.000e+4	 4.174e-15	 6.937e-1	  116.15°	   17.35°
+    4   	 4.000e+4	 7.627e-15	 1.268e+0	  176.81°	   78.00°
+    5   	 5.000e+4	 6.201e-15	 1.031e+0	  160.78°	   61.98°
+    6   	 6.000e+4	 1.868e-15	 3.104e-1	  176.43°	   77.62°
+    7   	 7.000e+4	 3.604e-15	 5.991e-1	 -113.78°	 -212.58°
+    8   	 8.000e+4	 6.995e-15	 1.163e+0	 -165.06°	 -263.86°
+    9   	 9.000e+4	 8.452e-16	 1.405e-1	   67.07°	  -31.73°
+   10   	 1.000e+5	 9.417e-15	 1.565e+0	  110.07°	   11.27°
+   11   	 1.100e+5	 5.338e-15	 8.873e-1	 -105.72°	 -204.52°
+   12   	 1.200e+5	 7.053e-15	 1.172e+0	 -156.69°	 -255.49°
+   13   	 1.300e+5	 4.124e-15	 6.855e-1	 -147.00°	 -245.80°
+   14   	 1.400e+5	 3.693e-15	 6.138e-1	  131.77°	   32.97°
+   15   	 1.500e+5	 1.093e-14	 1.818e+0	  104.32°	    5.51°
+   16   	 1.600e+5	 9.099e-15	 1.513e+0	  172.12°	   73.32°
+   17   	 1.700e+5	 1.134e-14	 1.884e+0	  153.15°	   54.35°
+   18   	 1.800e+5	 6.395e-15	 1.063e+0	  148.27°	   49.47°
+   19   	 1.900e+5	 9.751e-15	 1.621e+0	  -97.07°	 -195.88°
+   20   	 2.000e+5	 1.047e-14	 1.740e+0	  -52.33°	 -151.13°
+Partial Harmonic Distortion: 518.290714%
+Total Harmonic Distortion:   18474.815016%
+
+.step r=0.99
+N-Period=100
+Fourier components of V(vout)
+DC component:-4.92146e-06
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 3.420e-15	 1.000e+0	   84.62°	    0.00°
+    2   	 2.000e+4	 2.521e-15	 7.372e-1	   48.32°	  -36.30°
+    3   	 3.000e+4	 2.053e-15	 6.004e-1	 -130.35°	 -214.96°
+    4   	 4.000e+4	 2.851e-15	 8.337e-1	  140.24°	   55.62°
+    5   	 5.000e+4	 2.523e-15	 7.377e-1	 -125.10°	 -209.72°
+    6   	 6.000e+4	 2.870e-15	 8.394e-1	  168.69°	   84.07°
+    7   	 7.000e+4	 7.055e-15	 2.063e+0	   18.52°	  -66.10°
+    8   	 8.000e+4	 4.002e-15	 1.170e+0	  -37.58°	 -122.20°
+    9   	 9.000e+4	 7.724e-15	 2.259e+0	  150.79°	   66.17°
+   10   	 1.000e+5	 6.973e-15	 2.039e+0	   57.21°	  -27.41°
+   11   	 1.100e+5	 5.664e-15	 1.656e+0	  108.46°	   23.84°
+   12   	 1.200e+5	 7.168e-15	 2.096e+0	   42.65°	  -41.97°
+   13   	 1.300e+5	 7.354e-15	 2.150e+0	  -34.90°	 -119.52°
+   14   	 1.400e+5	 5.367e-15	 1.569e+0	  157.23°	   72.61°
+   15   	 1.500e+5	 1.404e-14	 4.106e+0	  -28.68°	 -113.30°
+   16   	 1.600e+5	 3.797e-15	 1.110e+0	 -101.62°	 -186.24°
+   17   	 1.700e+5	 8.230e-15	 2.407e+0	 -140.27°	 -224.89°
+   18   	 1.800e+5	 6.783e-15	 1.984e+0	 -166.41°	 -251.03°
+   19   	 1.900e+5	 7.355e-15	 2.151e+0	 -130.48°	 -215.10°
+   20   	 2.000e+5	 1.609e-14	 4.704e+0	 -146.97°	 -231.59°
+Partial Harmonic Distortion: 930.226935%
+Total Harmonic Distortion:   24529.790655%
+
+
+Date: Mon Jul 21 20:17:32 2025
+Total elapsed time: 21.892 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 45117
+traniter = 40034
+tranpoints = 20018
+accept = 20018
+rejected = 0
+matrix size = 448
+fillins = 1904
+solver = Normal
+Avg thread counts: 1.2/3.2/1.4/1.2
+Matrix Compiler1: 161.37 KB object code size  21.5/8.3/[5.3]
+Matrix Compiler2: 68.61 KB object code size  6.7/6.5/[2.3]
+

@@ -1,0 +1,140 @@
+Circuit: * C:\Users\dinod\Desktop\Power amplifier\Power-amplifier\Simulation\Amplifier\Output stage\V5 DC (NPN).asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+Changing Tseed to 5e-11
+Heightened Def Con from 4.6485e-07 +to 4.64852e-07
+Heightened Def Con from 0.00424731 to 0.00424731
+Heightened Def Con from 0.00434718 to 0.00434718
+Heightened Def Con from 0.00804745 to 0.00804746
+Heightened Def Con from 0.00844732 to 0.00844732
+Heightened Def Con from 0.00954719 to 0.00954719
+Heightened Def Con from 0.0119471 to 0.0119471
+Heightened Def Con from 0.0123472 to 0.0123472
+Heightened Def Con from 0.0173473 to 0.0173473
+Heightened Def Con from 0.0208473 to 0.0208473
+Heightened Def Con from 0.0212475 to 0.0212475
+Heightened Def Con from 0.0244475 to 0.0244475
+Heightened Def Con from 0.0247475 to 0.0247475
+Heightened Def Con from 0.0264471 to 0.0264471
+Heightened Def Con from 0.0264472 to 0.0264472
+Heightened Def Con from 0.0270472 to 0.0270472
+Heightened Def Con from 0.0276473 to 0.0276473
+Heightened Def Con from 0.0279473 to 0.0279473
+Heightened Def Con from 0.0279473 to 0.0279473
+Heightened Def Con from 0.0296472 to 0.0296472
+Heightened Def Con from 0.0300473 to 0.0300473
+Heightened Def Con from 0.0319472 to 0.0319472
+Heightened Def Con from 0.0334472 to 0.0334472
+Heightened Def Con from 0.0343472 to 0.0343472
+Heightened Def Con from 0.0374472 to 0.0374472
+Heightened Def Con from 0.0379471 to 0.0379471
+Heightened Def Con from 0.0381471 to 0.0381471
+Heightened Def Con from 0.0404472 to 0.0404472
+Heightened Def Con from 0.0427473 to 0.0427473
+Heightened Def Con from 0.0429472 to 0.0429472
+Heightened Def Con from 0.045847 to 0.045847
+Heightened Def Con from 0.0484471 to 0.0484471
+Heightened Def Con from 0.0494472 to 0.0494472
+Heightened Def Con from 0.0500473 to 0.0500473
+Heightened Def Con from 0.0502471 to 0.0502471
+Heightened Def Con from 0.0514472 to 0.0514472
+Heightened Def Con from 0.0526471 to 0.0526471
+Heightened Def Con from 0.0530473 to 0.0530473
+Heightened Def Con from 0.0530473 to 0.0530473
+Heightened Def Con from 0.0538475 to 0.0538475
+Heightened Def Con from 0.0552472 to 0.0552472
+Heightened Def Con from 0.0574473 to 0.0574473
+Heightened Def Con from 0.0574473 to 0.0574473
+Heightened Def Con from 0.0574473 to 0.0574473
+Heightened Def Con from 0.0576473 to 0.0576473
+Heightened Def Con from 0.0596475 to 0.0596475
+Heightened Def Con from 0.0596475 to 0.0596475
+Heightened Def Con from 0.0614473 to 0.0614473
+Heightened Def Con from 0.0620471 to 0.0620471
+Heightened Def Con from 0.0633472 to 0.0633472
+Heightened Def Con from 0.0663475 to 0.0663475
+Heightened Def Con from 0.0671471 to 0.0671471
+Heightened Def Con from 0.0677473 to 0.0677473
+Heightened Def Con from 0.0679472 to 0.0679472
+Heightened Def Con from 0.0693473 to 0.0693473
+Heightened Def Con from 0.0700473 to 0.0700473
+Heightened Def Con from 0.0704475 to 0.0704475
+Heightened Def Con from 0.0706473 to 0.0706473
+Heightened Def Con from 0.0709472 to 0.0709472
+Heightened Def Con from 0.0748473 to 0.0748473
+Heightened Def Con from 0.0749473 to 0.0749473
+Heightened Def Con from 0.076547 to 0.076547
+Heightened Def Con from 0.0767475 to 0.0767475
+Heightened Def Con from 0.0781473 to 0.0781473
+Heightened Def Con from 0.0793472 to 0.0793472
+Heightened Def Con from 0.0816474 to 0.0816475
+Heightened Def Con from 0.082847 to 0.082847
+Heightened Def Con from 0.0843471 to 0.0843471
+Heightened Def Con from 0.0843471 to 0.0843471
+Heightened Def Con from 0.0845473 to 0.0845473
+Heightened Def Con from 0.0866475 to 0.0866475
+Heightened Def Con from 0.0866475 to 0.0866475
+Heightened Def Con from 0.0870473 to 0.0870473
+Heightened Def Con from 0.0870473 to 0.0870473
+Heightened Def Con from 0.0880471 to 0.0880471
+Heightened Def Con from 0.0883475 to 0.0883475
+Heightened Def Con from 0.0884472 to 0.0884472
+Heightened Def Con from 0.0903473 to 0.0903473
+Heightened Def Con from 0.0909475 to 0.0909475
+Heightened Def Con from 0.0926472 to 0.0926472
+Heightened Def Con from 0.0936473 to 0.0936473
+Heightened Def Con from 0.0983472 to 0.0983472
+Heightened Def Con from 0.0993475 to 0.0993475
+N-Period=100
+Fourier components of V(vout)
+DC component:-14.7792
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 1.074e-3	 1.000e+0	   83.80°	    0.00°
+    2   	 2.000e+4	 2.701e-5	 2.516e-2	 -160.46°	 -244.25°
+    3   	 3.000e+4	 5.664e-6	 5.276e-3	  -61.45°	 -145.24°
+    4   	 4.000e+4	 4.565e-6	 4.252e-3	 -143.21°	 -227.01°
+    5   	 5.000e+4	 3.373e-6	 3.142e-3	  -45.67°	 -129.47°
+    6   	 6.000e+4	 1.163e-6	 1.083e-3	 -129.43°	 -213.22°
+    7   	 7.000e+4	 2.286e-6	 2.129e-3	  -33.40°	 -117.19°
+    8   	 8.000e+4	 3.128e-8	 2.914e-5	   70.06°	  -13.73°
+    9   	 9.000e+4	 1.524e-6	 1.420e-3	  -23.73°	 -107.53°
+   10   	 1.000e+5	 5.518e-7	 5.140e-4	   70.84°	  -12.96°
+   11   	 1.100e+5	 9.334e-7	 8.694e-4	  -16.36°	 -100.16°
+   12   	 1.200e+5	 7.546e-7	 7.029e-4	   77.30°	   -6.50°
+   13   	 1.300e+5	 4.527e-7	 4.217e-4	  -10.25°	  -94.05°
+   14   	 1.400e+5	 7.632e-7	 7.109e-4	   82.63°	   -1.16°
+   15   	 1.500e+5	 8.652e-8	 8.059e-5	   -8.32°	  -92.11°
+   16   	 1.600e+5	 6.601e-7	 6.149e-4	   86.98°	    3.18°
+   17   	 1.700e+5	 1.738e-7	 1.619e-4	  179.90°	   96.10°
+   18   	 1.800e+5	 4.855e-7	 4.523e-4	   90.57°	    6.77°
+   19   	 1.900e+5	 3.281e-7	 3.056e-4	 -177.06°	 -260.86°
+   20   	 2.000e+5	 2.918e-7	 2.718e-4	   93.36°	    9.56°
+Partial Harmonic Distortion: 2.644701%
+Total Harmonic Distortion:   2.646151%
+
+
+
+Date: Mon Jul 21 19:21:52 2025
+Total elapsed time: 7.853 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 694639
+traniter = 694631
+tranpoints = 227979
+accept = 218532
+rejected = 9530
+matrix size = 188
+fillins = 230
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 24.40 KB object code size  4.0/2.0/[0.9]
+Matrix Compiler2: 20.45 KB object code size  1.7/1.7/[0.8]
+
