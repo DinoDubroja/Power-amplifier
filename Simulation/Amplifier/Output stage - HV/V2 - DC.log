@@ -1,0 +1,106 @@
+Circuit: * C:\Users\dinod\Desktop\Power amplifier\Power-amplifier\Simulation\Amplifier\Output stage - HV\V2 - DC.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Instance "m:u1:4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:19": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:23": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:57": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:57": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:67": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:67": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:68": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:68": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:41": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:42": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:43": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:44": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:45": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:46": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:58": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:58": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:59": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:64": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:65": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:65": Width narrower than recommended for a level 1 MOSFET.
+Instance "m:u1:66": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:66": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 4.81882
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 4.63658
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 4.62641
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+N-Period=100
+Fourier components of V(vout)
+DC component:3.06875
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 6.579e-13	 1.000e+0	 -168.65°	    0.00°
+    2   	 2.000e+4	 4.191e-12	 6.371e+0	  -26.12°	  142.54°
+    3   	 3.000e+4	 2.347e-12	 3.567e+0	  139.36°	  308.02°
+    4   	 4.000e+4	 1.487e-12	 2.260e+0	 -119.31°	   49.35°
+    5   	 5.000e+4	 2.551e-12	 3.877e+0	  -18.52°	  150.13°
+    6   	 6.000e+4	 4.139e-12	 6.292e+0	  -55.74°	  112.92°
+    7   	 7.000e+4	 2.699e-12	 4.103e+0	  100.24°	  268.89°
+    8   	 8.000e+4	 3.020e-12	 4.590e+0	  -22.03°	  146.62°
+    9   	 9.000e+4	 1.655e-12	 2.516e+0	   55.20°	  223.85°
+   10   	 1.000e+5	 3.286e-13	 4.995e-1	  170.36°	  339.01°
+   11   	 1.100e+5	 3.052e-12	 4.640e+0	 -138.60°	   30.05°
+   12   	 1.200e+5	 3.875e-12	 5.890e+0	   48.67°	  217.32°
+   13   	 1.300e+5	 3.206e-12	 4.873e+0	   53.39°	  222.04°
+   14   	 1.400e+5	 8.028e-13	 1.220e+0	 -129.82°	   38.83°
+   15   	 1.500e+5	 1.238e-12	 1.882e+0	   46.82°	  215.47°
+   16   	 1.600e+5	 3.954e-12	 6.010e+0	  135.62°	  304.27°
+   17   	 1.700e+5	 3.962e-12	 6.023e+0	  150.27°	  318.92°
+   18   	 1.800e+5	 4.867e-12	 7.398e+0	   36.12°	  204.77°
+   19   	 1.900e+5	 2.506e-12	 3.809e+0	  108.99°	  277.64°
+   20   	 2.000e+5	 1.334e-12	 2.028e+0	  152.86°	  321.51°
+Partial Harmonic Distortion: 1970.428605%
+Total Harmonic Distortion:   24662.494553%
+
+
+
+Date: Mon Jul 21 19:49:02 2025
+Total elapsed time: 8.720 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 402120
+traniter = 400036
+tranpoints = 200018
+accept = 200018
+rejected = 0
+matrix size = 248
+fillins = 677
+solver = Normal
+Avg thread counts: 1.0/2.0/1.0/1.0
+Matrix Compiler1: 39.80 KB object code size  8.9/3.9/[1.7]
+Matrix Compiler2: 32.22 KB object code size  3.1/4.3/[1.3]
+

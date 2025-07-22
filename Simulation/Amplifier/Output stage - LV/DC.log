@@ -1,0 +1,75 @@
+Circuit: * C:\Users\dinod\Desktop\Audio amplifier & power supply\Simulation\Amplifier\Output stage\DC.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+N-Period=100
+Fourier components of V(vout)
+DC component:0.491283
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 7.742e-16	 1.000e+0	   91.94°	    0.00°
+    2   	 2.000e+4	 1.048e-15	 1.354e+0	   38.04°	  -53.90°
+    3   	 3.000e+4	 8.362e-16	 1.080e+0	   55.32°	  -36.62°
+    4   	 4.000e+4	 2.077e-15	 2.683e+0	  160.04°	   68.10°
+    5   	 5.000e+4	 2.486e-15	 3.211e+0	   64.47°	  -27.48°
+    6   	 6.000e+4	 3.138e-16	 4.053e-1	 -164.92°	 -256.86°
+    7   	 7.000e+4	 8.751e-16	 1.130e+0	   -4.98°	  -96.92°
+    8   	 8.000e+4	 6.862e-16	 8.863e-1	 -172.05°	 -264.00°
+    9   	 9.000e+4	 7.838e-16	 1.012e+0	  -62.98°	 -154.92°
+   10   	 1.000e+5	 1.248e-15	 1.612e+0	   88.85°	   -3.09°
+   11   	 1.100e+5	 1.188e-15	 1.535e+0	   -6.85°	  -98.79°
+   12   	 1.200e+5	 1.371e-15	 1.770e+0	 -171.38°	 -263.32°
+   13   	 1.300e+5	 2.003e-15	 2.588e+0	   15.86°	  -76.08°
+   14   	 1.400e+5	 7.547e-16	 9.747e-1	  136.61°	   44.67°
+   15   	 1.500e+5	 8.306e-16	 1.073e+0	 -148.15°	 -240.09°
+   16   	 1.600e+5	 1.488e-15	 1.922e+0	 -126.86°	 -218.80°
+   17   	 1.700e+5	 1.626e-15	 2.100e+0	   77.82°	  -14.12°
+   18   	 1.800e+5	 2.144e-16	 2.769e-1	   99.84°	    7.90°
+   19   	 1.900e+5	 1.067e-15	 1.379e+0	    2.76°	  -89.18°
+   20   	 2.000e+5	 1.264e-15	 1.633e+0	 -145.72°	 -237.66°
+Partial Harmonic Distortion: 730.706007%
+Total Harmonic Distortion:   835450.209120%
+
+
+
+Date: Fri Jun 20 21:35:09 2025
+Total elapsed time: 1.008 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 200527
+traniter = 200034
+tranpoints = 100018
+accept = 100018
+rejected = 0
+matrix size = 36
+fillins = 37
+solver = Normal
+Avg thread counts: 1.0/1.1/1.1/1.0
+Matrix Compiler1: 5.15 KB object code size  1.0/0.3/[0.3]
+Matrix Compiler2: off  [0.2]/0.3/0.3
+
