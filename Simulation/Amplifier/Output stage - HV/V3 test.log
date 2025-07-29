@@ -1,0 +1,56 @@
+Circuit: * C:\Users\dinod\Desktop\Power amplifier\Power-amplifier\Simulation\Amplifier\Output stage - HV\V3 test.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+N-Period=100
+Fourier components of V(vout)
+DC component:1.99899
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+4	 1.940e-9	 1.000e+0	  -87.55°	    0.00°
+    2   	 2.000e+4	 9.657e-10	 4.979e-1	  -82.78°	    4.77°
+    3   	 3.000e+4	 6.422e-10	 3.311e-1	  -78.83°	    8.72°
+    4   	 4.000e+4	 4.823e-10	 2.487e-1	  -75.15°	   12.40°
+    5   	 5.000e+4	 3.879e-10	 2.000e-1	  -71.47°	   16.08°
+    6   	 6.000e+4	 3.262e-10	 1.682e-1	  -67.56°	   19.99°
+    7   	 7.000e+4	 2.800e-10	 1.444e-1	  -63.87°	   23.68°
+    8   	 8.000e+4	 2.476e-10	 1.276e-1	  -60.41°	   27.14°
+    9   	 9.000e+4	 2.214e-10	 1.142e-1	  -56.81°	   30.74°
+   10   	 1.000e+5	 2.016e-10	 1.039e-1	  -53.35°	   34.20°
+   11   	 1.100e+5	 1.846e-10	 9.516e-2	  -50.44°	   37.11°
+   12   	 1.200e+5	 1.723e-10	 8.881e-2	  -47.16°	   40.39°
+   13   	 1.300e+5	 1.623e-10	 8.368e-2	  -43.85°	   43.70°
+   14   	 1.400e+5	 1.516e-10	 7.814e-2	  -40.31°	   47.24°
+   15   	 1.500e+5	 1.407e-10	 7.256e-2	  -37.91°	   49.64°
+   16   	 1.600e+5	 1.351e-10	 6.965e-2	  -35.06°	   52.49°
+   17   	 1.700e+5	 1.277e-10	 6.582e-2	  -31.51°	   56.04°
+   18   	 1.800e+5	 1.229e-10	 6.336e-2	  -29.03°	   58.52°
+   19   	 1.900e+5	 1.165e-10	 6.004e-2	  -26.46°	   61.09°
+   20   	 2.000e+5	 1.116e-10	 5.753e-2	  -23.31°	   64.24°
+Partial Harmonic Distortion: 77.721279%
+Total Harmonic Distortion:   6213.294028%
+
+
+
+Date: Wed Jul 23 18:29:29 2025
+Total elapsed time: 0.445 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 40041
+traniter = 40034
+tranpoints = 20018
+accept = 20018
+rejected = 0
+matrix size = 45
+fillins = 46
+solver = Normal
+Avg thread counts: 1.2/2.3/1.4/1.2
+Matrix Compiler1: 6.70 KB object code size  1.2/0.7/[0.4]
+Matrix Compiler2: 5.03 KB object code size  0.4/0.5/[0.3]
+

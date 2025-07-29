@@ -1,0 +1,175 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5f19342e-1492-424d-8e28-ec0a19d534cb")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 38.1 44.45) (xy 46.99 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4358eae0-a380-479a-9473-1e9f235a1a7f")
+	)
+	(wire
+		(pts
+			(xy 38.1 39.37) (xy 46.99 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d084472-0d93-4e40-b054-9410afbe8c4d")
+	)
+	(wire
+		(pts
+			(xy 38.1 49.53) (xy 46.99 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d346740f-4892-4e93-a2ae-df692fe51528")
+	)
+	(global_label "L"
+		(shape input)
+		(at 46.99 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "25da0b92-3a50-4e5d-9232-306e0d28a5a7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.0033 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PE"
+		(shape input)
+		(at 46.99 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2b029bcc-1cd8-4904-a9e3-50846b301ebf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.3942 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N"
+		(shape input)
+		(at 38.1 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "618a52e0-a9b1-4154-be20-bd945d9b17b0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.7843 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N"
+		(shape input)
+		(at 46.99 44.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b31399f6-e0a1-47a6-a4c3-1d0693b3b9b6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.3057 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "L"
+		(shape input)
+		(at 38.1 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b7820863-754d-4581-8996-c3cbc365fc86")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 34.0867 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PE"
+		(shape input)
+		(at 38.1 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e20c7254-8df7-4f52-8745-00b3ee8a1e97")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 32.6958 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

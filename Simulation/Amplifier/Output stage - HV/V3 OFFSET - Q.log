@@ -1,4 +1,4 @@
-Circuit: * C:\Users\dinod\Desktop\Power amplifier\Power-amplifier\Simulation\Amplifier\Output stage - HV\V3 OFFSET - THD.asc
+Circuit: * C:\Users\dinod\Desktop\Power amplifier\Power-amplifier\Simulation\Amplifier\Output stage - HV\V3 OFFSET - Q.asc
 
 Warning: Multiple definitions of model "2scr375p" Type: BJT
 Warning: Multiple definitions of model "bc857b" Type: BJT
@@ -34,17 +34,16 @@ Gmin = 10
 vernier = 0.5
 vernier = 0.25
 vernier = 0.125
-Gmin = 4.81882
+Gmin = 5.5165
 vernier = 0.0625
 vernier = 0.03125
 vernier = 0.015625
 vernier = 0.0078125
-Gmin = 4.63658
+Gmin = 5.6228
 vernier = 0.00390625
 vernier = 0.00195312
 vernier = 0.000976562
 vernier = 0.000488281
-Gmin = 4.62641
 Gmin = 0
 Gmin stepping failed
 
@@ -57,50 +56,50 @@ Source stepping succeeded in finding the operating point.
 
 N-Period=100
 Fourier components of V(vout)
-DC component:1.0992e-05
+DC component:1.09021e-05
 
 Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
  Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
-    1   	 1.000e+4	 1.000e+1	 1.000e+0	   90.50°	    0.00°
-    2   	 2.000e+4	 2.456e-5	 2.456e-6	   41.37°	  -49.13°
-    3   	 3.000e+4	 5.968e-4	 5.967e-5	    4.26°	  -86.24°
-    4   	 4.000e+4	 5.108e-5	 5.107e-6	 -104.86°	 -195.36°
-    5   	 5.000e+4	 1.945e-4	 1.944e-5	  -27.44°	 -117.94°
-    6   	 6.000e+4	 3.682e-5	 3.681e-6	 -135.29°	 -225.79°
-    7   	 7.000e+4	 8.625e-5	 8.623e-6	  -63.36°	 -153.87°
-    8   	 8.000e+4	 2.191e-5	 2.190e-6	 -169.06°	 -259.56°
-    9   	 9.000e+4	 3.806e-5	 3.805e-6	 -100.16°	 -190.66°
-   10   	 1.000e+5	 1.181e-5	 1.180e-6	  155.83°	   65.33°
-   11   	 1.100e+5	 1.518e-5	 1.517e-6	 -137.46°	 -227.97°
-   12   	 1.200e+5	 5.854e-6	 5.853e-7	  121.35°	   30.85°
-   13   	 1.300e+5	 5.833e-6	 5.831e-7	 -173.80°	 -264.30°
-   14   	 1.400e+5	 2.762e-6	 2.761e-7	   86.77°	   -3.73°
-   15   	 1.500e+5	 2.189e-6	 2.188e-7	  150.07°	   59.56°
-   16   	 1.600e+5	 1.258e-6	 1.258e-7	   52.03°	  -38.47°
-   17   	 1.700e+5	 8.253e-7	 8.251e-8	  115.66°	   25.16°
-   18   	 1.800e+5	 5.541e-7	 5.540e-8	   17.24°	  -73.26°
-   19   	 1.900e+5	 3.123e-7	 3.122e-8	   72.49°	  -18.01°
-   20   	 2.000e+5	 2.372e-7	 2.371e-8	  -17.70°	 -108.20°
-Partial Harmonic Distortion: 0.006389%
-Total Harmonic Distortion:   0.007344%
+    1   	 1.000e+4	 1.836e-16	 1.000e+0	  -20.72°	    0.00°
+    2   	 2.000e+4	 2.980e-16	 1.623e+0	  109.10°	  129.81°
+    3   	 3.000e+4	 4.465e-16	 2.432e+0	   67.10°	   87.82°
+    4   	 4.000e+4	 3.400e-16	 1.852e+0	  124.54°	  145.25°
+    5   	 5.000e+4	 4.194e-16	 2.284e+0	 -125.25°	 -104.53°
+    6   	 6.000e+4	 7.984e-16	 4.348e+0	  169.79°	  190.50°
+    7   	 7.000e+4	 4.012e-16	 2.185e+0	 -121.39°	 -100.67°
+    8   	 8.000e+4	 1.133e-15	 6.171e+0	 -121.33°	 -100.61°
+    9   	 9.000e+4	 1.063e-15	 5.790e+0	  -65.87°	  -45.16°
+   10   	 1.000e+5	 2.475e-15	 1.348e+1	 -114.67°	  -93.95°
+   11   	 1.100e+5	 1.427e-16	 7.773e-1	   88.46°	  109.18°
+   12   	 1.200e+5	 1.629e-15	 8.873e+0	  105.25°	  125.96°
+   13   	 1.300e+5	 2.776e-16	 1.512e+0	    7.09°	   27.81°
+   14   	 1.400e+5	 2.308e-15	 1.257e+1	  -69.41°	  -48.69°
+   15   	 1.500e+5	 1.263e-15	 6.877e+0	   43.46°	   64.17°
+   16   	 1.600e+5	 2.815e-15	 1.533e+1	  177.68°	  198.40°
+   17   	 1.700e+5	 1.877e-16	 1.022e+0	  170.48°	  191.19°
+   18   	 1.800e+5	 2.719e-15	 1.480e+1	   52.18°	   72.90°
+   19   	 1.900e+5	 1.843e-15	 1.003e+1	  -18.27°	    2.44°
+   20   	 2.000e+5	 2.304e-15	 1.255e+1	   85.97°	  106.69°
+Partial Harmonic Distortion: 3597.580711%
+Total Harmonic Distortion:   185470.141302%
 
 
 
-Date: Wed Jul 23 22:06:31 2025
-Total elapsed time: 8.767 seconds.
+Date: Wed Jul 23 17:52:46 2025
+Total elapsed time: 1.324 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 403955
-traniter = 402094
-tranpoints = 200037
-accept = 200034
-rejected = 3
-matrix size = 249
-fillins = 616
+totiter = 41854
+traniter = 40034
+tranpoints = 20018
+accept = 20018
+rejected = 0
+matrix size = 250
+fillins = 547
 solver = Normal
-Avg thread counts: 1.0/3.0/1.0/1.0
-Matrix Compiler1: 36.63 KB object code size  8.4/3.2/[1.6]
-Matrix Compiler2: 31.31 KB object code size  2.8/4.8/[1.1]
+Avg thread counts: 1.2/3.2/1.4/1.2
+Matrix Compiler1: 33.46 KB object code size  6.8/2.6/[1.5]
+Matrix Compiler2: 30.18 KB object code size  2.6/3.7/[1.1]
 
