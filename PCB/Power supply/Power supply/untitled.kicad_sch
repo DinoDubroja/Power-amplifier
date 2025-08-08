@@ -3223,11 +3223,12 @@
 		)
 		(uuid "f4ab5381-84f3-4313-a3b1-2b339135def4")
 	)
-	(text "TIP36C on external heatsink"
+	(text "TIP36C ON EXTERNAL HEATSINK"
 		(exclude_from_sim no)
-		(at 76.708 190.754 0)
+		(at 79.756 189.738 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 1.5 1.5)
 				(thickness 0.6)
 				(bold yes)
@@ -3236,11 +3237,12 @@
 		)
 		(uuid "4797939e-250f-492e-972c-cc8d3ef29fe5")
 	)
-	(text "TIP35C on external heatsink"
+	(text "TIP35C ON EXTERNAL HEATSINK\n"
 		(exclude_from_sim no)
-		(at 76.454 25.146 0)
+		(at 77.216 28.448 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 1.5 1.5)
 				(thickness 0.6)
 				(bold yes)
@@ -3254,6 +3256,7 @@
 		(at 33.782 18.542 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 3 3)
 				(thickness 0.6)
 				(bold yes)
@@ -3264,9 +3267,10 @@
 	)
 	(text "12V REGULATOR"
 		(exclude_from_sim no)
-		(at 222.25 20.32 0)
+		(at 233.426 23.368 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 3 3)
 				(thickness 0.6)
 				(bold yes)

@@ -2612,9 +2612,10 @@
 	)
 	(text "OVERCURRENT LED\nNEGATIVE RAIL\n"
 		(exclude_from_sim no)
-		(at 199.898 117.856 0)
+		(at 208.788 138.684 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2628,6 +2629,7 @@
 		(at 231.14 19.812 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2636,11 +2638,12 @@
 		)
 		(uuid "0e65ecf9-22a8-43c9-aeac-5028165594b2")
 	)
-	(text "NPN_C\n"
+	(text "NPN C\n"
 		(exclude_from_sim no)
 		(at 25.4 53.34 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 1 1)
 				(thickness 0.6)
 				(bold yes)
@@ -2651,9 +2654,10 @@
 	)
 	(text "PNP PASS TRANSISTOR\n(TIP36C)"
 		(exclude_from_sim no)
-		(at 48.514 20.574 0)
+		(at 46.99 20.066 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2667,6 +2671,7 @@
 		(at 168.402 17.78 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2680,6 +2685,7 @@
 		(at 97.79 17.78 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2688,11 +2694,12 @@
 		)
 		(uuid "6df54da9-ba3b-43b4-95ba-bc4c1f7ea338")
 	)
-	(text "PNP_C\n"
+	(text "PNP C\n"
 		(exclude_from_sim no)
-		(at 24.384 29.718 0)
+		(at 24.384 30.988 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 1 1)
 				(thickness 0.6)
 				(bold yes)
@@ -2703,9 +2710,10 @@
 	)
 	(text "POWER LED\nNEGATIVE RAIL\n"
 		(exclude_from_sim no)
-		(at 136.144 118.364 0)
+		(at 135.89 122.428 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2719,6 +2727,7 @@
 		(at 49.022 68.834 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2729,9 +2738,10 @@
 	)
 	(text "POWER LED\nPOSITIVE RAIL\n"
 		(exclude_from_sim no)
-		(at 137.16 77.724 0)
+		(at 135.636 77.47 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2745,6 +2755,7 @@
 		(at 130.048 18.034 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2755,9 +2766,10 @@
 	)
 	(text "NPN PASS TRANSISTOR\n(TIP35C)"
 		(exclude_from_sim no)
-		(at 48.514 43.434 0)
+		(at 45.974 43.942 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2771,6 +2783,7 @@
 		(at 48.514 137.922 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2779,11 +2792,12 @@
 		)
 		(uuid "be6fd5af-f249-437e-9b68-ecf63773d880")
 	)
-	(text "PNP_E\n"
+	(text "PNP E\n"
 		(exclude_from_sim no)
-		(at 24.638 33.02 0)
+		(at 24.638 34.29 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 1 1)
 				(thickness 0.6)
 				(bold yes)
@@ -2792,11 +2806,12 @@
 		)
 		(uuid "cc7eff0a-9fc7-4f93-b64d-b6111f989174")
 	)
-	(text "PNP_B\n"
+	(text "PNP B\n"
 		(exclude_from_sim no)
-		(at 24.384 26.67 0)
+		(at 24.384 27.94 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 1 1)
 				(thickness 0.6)
 				(bold yes)
@@ -2807,9 +2822,10 @@
 	)
 	(text "OVERCURRENT LED\nPOSITIVE RAIL\n"
 		(exclude_from_sim no)
-		(at 200.66 98.552 0)
+		(at 207.772 75.438 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2823,6 +2839,7 @@
 		(at 199.39 17.78 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 2 2)
 				(thickness 0.6)
 				(bold yes)
@@ -2831,11 +2848,12 @@
 		)
 		(uuid "ebccd9a5-c1f4-4456-8a11-65b73252fb11")
 	)
-	(text "NPN_E\n"
+	(text "NPN E\n"
 		(exclude_from_sim no)
 		(at 25.654 56.642 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 1 1)
 				(thickness 0.6)
 				(bold yes)
@@ -2844,11 +2862,12 @@
 		)
 		(uuid "f0d939ac-d235-468a-b695-06b9e54c5d55")
 	)
-	(text "NPN_B\n"
+	(text "NPN B\n"
 		(exclude_from_sim no)
 		(at 25.4 50.292 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 1 1)
 				(thickness 0.6)
 				(bold yes)
@@ -3272,7 +3291,7 @@
 		(dnp no)
 		(uuid "1e2f06fa-322b-4f58-bd3f-611f34e144b4")
 		(property "Reference" "J5"
-			(at 241.3 34.2901 0)
+			(at 240.792 33.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3287,6 +3306,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
@@ -3475,10 +3495,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "25014c50-fe17-4e78-a1e3-5281e3a14bcd")
 		(property "Reference" "J8"
-			(at 55.88 29.2099 0)
+			(at 51.562 25.146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3493,6 +3512,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
@@ -3771,6 +3791,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
@@ -4357,10 +4378,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4ff98f71-6a73-4261-8841-f7e981b9fa1c")
 		(property "Reference" "J6"
-			(at 173.99 33.0199 0)
+			(at 173.482 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4375,6 +4395,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
@@ -4626,10 +4647,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5cccad62-8bba-49ef-b47c-06f3b0769343")
 		(property "Reference" "J9"
-			(at 107.95 31.7499 0)
+			(at 104.14 27.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4770,7 +4790,7 @@
 		(dnp no)
 		(uuid "6175ed24-1ceb-402d-aa1c-40397904cf2c")
 		(property "Reference" "J14"
-			(at 139.7 111.7601 0)
+			(at 139.446 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4785,6 +4805,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
@@ -5110,7 +5131,7 @@
 		(dnp no)
 		(uuid "6cb44f16-58f5-416e-8ef2-556932f77605")
 		(property "Reference" "J4"
-			(at 208.28 34.2901 0)
+			(at 208.026 33.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5125,6 +5146,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
@@ -5243,10 +5265,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "702741fa-0485-4b47-bd84-83ce564ec531")
 		(property "Reference" "J10"
-			(at 138.43 33.0199 0)
+			(at 134.366 28.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6126,7 +6147,7 @@
 		(dnp no)
 		(uuid "a543fa8d-bbf5-4d80-b1ef-520fea8e38c9")
 		(property "Reference" "J13"
-			(at 139.7 87.6301 0)
+			(at 139.192 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6141,6 +6162,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
@@ -6262,7 +6284,7 @@
 		(dnp no)
 		(uuid "a759ef53-2c35-4b12-bbb7-63d4cfdde518")
 		(property "Reference" "J11"
-			(at 55.88 54.6101 0)
+			(at 51.562 48.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6277,6 +6299,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
@@ -6968,6 +6991,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"

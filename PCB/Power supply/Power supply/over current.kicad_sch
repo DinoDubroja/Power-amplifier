@@ -4527,7 +4527,7 @@
 		(end 269.24 162.56)
 		(stroke
 			(width 0.6)
-			(type default)
+			(type dash)
 			(color 132 0 0 1)
 		)
 		(fill
@@ -4541,7 +4541,7 @@
 		(end 210.82 162.56)
 		(stroke
 			(width 0.6)
-			(type default)
+			(type dash)
 			(color 132 0 0 1)
 		)
 		(fill
@@ -4555,7 +4555,7 @@
 		(end 121.92 162.56)
 		(stroke
 			(width 0.6)
-			(type default)
+			(type dash)
 			(color 132 0 0 1)
 		)
 		(fill
@@ -4564,11 +4564,12 @@
 		)
 		(uuid e6159d91-3d65-4d19-863f-b8b4c0b9efaf)
 	)
-	(text "COMPARATOR\n"
+	(text "SENSE"
 		(exclude_from_sim no)
-		(at 50.038 25.4 0)
+		(at 43.434 26.416 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 3 3)
 				(thickness 0.6)
 				(bold yes)
@@ -4579,9 +4580,10 @@
 	)
 	(text "LOGIC"
 		(exclude_from_sim no)
-		(at 130.81 24.638 0)
+		(at 130.81 25.654 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 3 3)
 				(thickness 0.6)
 				(bold yes)
@@ -4592,9 +4594,10 @@
 	)
 	(text "SWITCH\n"
 		(exclude_from_sim no)
-		(at 220.726 24.384 0)
+		(at 220.726 25.4 0)
 		(effects
 			(font
+				(face "AIGDT")
 				(size 3 3)
 				(thickness 0.6)
 				(bold yes)
