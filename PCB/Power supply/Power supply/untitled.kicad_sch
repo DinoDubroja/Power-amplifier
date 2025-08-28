@@ -2345,7 +2345,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 167.64) (xy 77.47 177.8)
+			(xy 77.47 167.64) (xy 77.47 175.26)
 		)
 		(stroke
 			(width 0)
@@ -3223,9 +3223,23 @@
 		)
 		(uuid "f4ab5381-84f3-4313-a3b1-2b339135def4")
 	)
+	(text "C        B        E\n"
+		(exclude_from_sim no)
+		(at 77.47 187.198 0)
+		(effects
+			(font
+				(face "AIGDT")
+				(size 1.5 1.5)
+				(thickness 0.6)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "1c6c7d1c-e456-4225-957a-6a2bf033e905")
+	)
 	(text "TIP36C ON EXTERNAL HEATSINK"
 		(exclude_from_sim no)
-		(at 79.756 189.738 0)
+		(at 78.994 193.294 0)
 		(effects
 			(font
 				(face "AIGDT")
@@ -3239,7 +3253,7 @@
 	)
 	(text "TIP35C ON EXTERNAL HEATSINK\n"
 		(exclude_from_sim no)
-		(at 77.216 28.448 0)
+		(at 77.47 23.622 0)
 		(effects
 			(font
 				(face "AIGDT")
@@ -3279,6 +3293,20 @@
 		)
 		(uuid "c163fdcc-3c62-41f4-ac40-bbd9fd7ef0e5")
 	)
+	(text "C        B        E\n"
+		(exclude_from_sim no)
+		(at 77.724 30.226 0)
+		(effects
+			(font
+				(face "AIGDT")
+				(size 1.5 1.5)
+				(thickness 0.6)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "e3b25625-e1b6-454d-b8ff-cb728a6a85c5")
+	)
 	(global_label "NPN_B"
 		(shape output)
 		(at 77.47 40.64 90)
@@ -3303,7 +3331,7 @@
 	)
 	(global_label "PNP_B"
 		(shape output)
-		(at 77.47 177.8 270)
+		(at 77.47 175.26 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3313,7 +3341,7 @@
 		)
 		(uuid "fe0a1d5c-11b1-4b72-8715-6f5c491d8c86")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.47 186.8933 90)
+			(at 77.47 184.3533 90)
 			(effects
 				(font
 					(size 1.27 1.27)

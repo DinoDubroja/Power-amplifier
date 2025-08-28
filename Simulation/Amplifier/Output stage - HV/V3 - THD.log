@@ -34,16 +34,17 @@ Gmin = 10
 vernier = 0.5
 vernier = 0.25
 vernier = 0.125
-Gmin = 5.5165
+Gmin = 5.841
 vernier = 0.0625
 vernier = 0.03125
 vernier = 0.015625
 vernier = 0.0078125
-Gmin = 5.6228
+Gmin = 5.90776
 vernier = 0.00390625
 vernier = 0.00195312
 vernier = 0.000976562
 vernier = 0.000488281
+Gmin = 5.91424
 Gmin = 0
 Gmin stepping failed
 
@@ -56,50 +57,50 @@ Source stepping succeeded in finding the operating point.
 
 N-Period=100
 Fourier components of V(vout)
-DC component:1.09873e-05
+DC component:6.46886e-05
 
 Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
  Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
-    1   	 1.000e+4	 9.997e+0	 1.000e+0	   90.32°	    0.00°
-    2   	 2.000e+4	 1.616e-5	 1.617e-6	   17.73°	  -72.58°
-    3   	 3.000e+4	 3.058e-4	 3.059e-5	   24.79°	  -65.52°
-    4   	 4.000e+4	 3.397e-5	 3.398e-6	  -80.29°	 -170.61°
-    5   	 5.000e+4	 1.635e-4	 1.636e-5	    9.83°	  -80.48°
-    6   	 6.000e+4	 3.175e-5	 3.176e-6	 -101.48°	 -191.79°
-    7   	 7.000e+4	 8.813e-5	 8.816e-6	  -14.28°	 -104.60°
-    8   	 8.000e+4	 2.380e-5	 2.381e-6	 -121.43°	 -211.75°
-    9   	 9.000e+4	 4.619e-5	 4.620e-6	  -37.29°	 -127.61°
-   10   	 1.000e+5	 1.587e-5	 1.587e-6	 -142.65°	 -232.96°
-   11   	 1.100e+5	 2.349e-5	 2.350e-6	  -59.49°	 -149.81°
-   12   	 1.200e+5	 9.932e-6	 9.935e-7	 -163.95°	 -254.27°
-   13   	 1.300e+5	 1.160e-5	 1.161e-6	  -81.55°	 -171.86°
-   14   	 1.400e+5	 5.931e-6	 5.932e-7	  174.69°	   84.37°
-   15   	 1.500e+5	 5.551e-6	 5.553e-7	 -102.99°	 -193.30°
-   16   	 1.600e+5	 3.402e-6	 3.403e-7	  153.41°	   63.09°
-   17   	 1.700e+5	 2.649e-6	 2.650e-7	 -125.11°	 -215.42°
-   18   	 1.800e+5	 1.927e-6	 1.927e-7	  132.44°	   42.13°
-   19   	 1.900e+5	 1.176e-6	 1.176e-7	 -144.47°	 -234.79°
-   20   	 2.000e+5	 1.036e-6	 1.037e-7	  113.21°	   22.89°
-Partial Harmonic Distortion: 0.003665%
-Total Harmonic Distortion:   0.005156%
+    1   	 1.000e+4	 9.995e+0	 1.000e+0	   91.64°	    0.00°
+    2   	 2.000e+4	 1.067e-4	 1.067e-5	  -37.81°	 -129.44°
+    3   	 3.000e+4	 1.497e-3	 1.497e-4	   32.84°	  -58.80°
+    4   	 4.000e+4	 1.615e-4	 1.616e-5	  -69.55°	 -161.19°
+    5   	 5.000e+4	 8.103e-4	 8.107e-5	   22.55°	  -69.09°
+    6   	 6.000e+4	 1.574e-4	 1.575e-5	  -85.93°	 -177.56°
+    7   	 7.000e+4	 4.329e-4	 4.331e-5	    3.60°	  -88.04°
+    8   	 8.000e+4	 1.169e-4	 1.170e-5	 -100.82°	 -192.46°
+    9   	 9.000e+4	 2.254e-4	 2.255e-5	  -14.24°	 -105.88°
+   10   	 1.000e+5	 7.762e-5	 7.765e-6	 -116.71°	 -208.34°
+   11   	 1.100e+5	 1.138e-4	 1.139e-5	  -31.15°	 -122.79°
+   12   	 1.200e+5	 4.821e-5	 4.823e-6	 -132.83°	 -224.47°
+   13   	 1.300e+5	 5.551e-5	 5.554e-6	  -47.91°	 -139.55°
+   14   	 1.400e+5	 2.851e-5	 2.852e-6	 -148.68°	 -240.32°
+   15   	 1.500e+5	 2.639e-5	 2.640e-6	  -64.39°	 -156.03°
+   16   	 1.600e+5	 1.630e-5	 1.630e-6	 -164.78°	 -256.41°
+   17   	 1.700e+5	 1.237e-5	 1.237e-6	  -81.42°	 -173.06°
+   18   	 1.800e+5	 9.020e-6	 9.024e-7	  179.48°	   87.84°
+   19   	 1.900e+5	 5.604e-6	 5.606e-7	  -96.70°	 -188.33°
+   20   	 2.000e+5	 4.961e-6	 4.963e-7	  164.07°	   72.43°
+Partial Harmonic Distortion: 0.018000%
+Total Harmonic Distortion:   0.018360%
 
 
 
-Date: Thu Jul 24 21:12:56 2025
-Total elapsed time: 10.249 seconds.
+Date: Thu Aug 28 17:01:58 2025
+Total elapsed time: 9.878 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 451932
-traniter = 450100
-tranpoints = 200046
-accept = 200038
-rejected = 8
-matrix size = 250
-fillins = 630
+totiter = 422853
+traniter = 421049
+tranpoints = 200026
+accept = 200026
+rejected = 0
+matrix size = 255
+fillins = 601
 solver = Normal
 Avg thread counts: 1.0/3.0/1.0/1.0
-Matrix Compiler1: 37.53 KB object code size  7.1/2.9/[1.7]
-Matrix Compiler2: 31.60 KB object code size  3.3/4.2/[1.2]
+Matrix Compiler1: 37.03 KB object code size  8.0/3.2/[1.6]
+Matrix Compiler2: 31.61 KB object code size  3.4/4.2/[1.2]
 
