@@ -224,7 +224,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -370,7 +370,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "C:\\Users\\dinod\\Desktop\\Power amplifier\\Power-amplifier\\PCB\\A4.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -387,16 +387,8 @@
       "Root"
     ],
     [
-      "c42d6750-8a86-4a7b-8009-1bd63453f545",
-      "Output stage"
-    ],
-    [
       "be1576ec-1fe5-4b02-8bd6-7e4f4c0f614e",
       "Power"
-    ],
-    [
-      "8c2375a1-962f-41e6-a977-e5effe59cd07",
-      "Gain stage"
     ],
     [
       "a0a30b47-7df4-49e7-bd2b-08e042e328ac",
@@ -405,6 +397,14 @@
     [
       "02118419-b050-4570-beb3-1e03e4734a62",
       "Invert stage"
+    ],
+    [
+      "8c2375a1-962f-41e6-a977-e5effe59cd07",
+      "Gain stage"
+    ],
+    [
+      "c42d6750-8a86-4a7b-8009-1bd63453f545",
+      "Output stage"
     ]
   ],
   "text_variables": {}

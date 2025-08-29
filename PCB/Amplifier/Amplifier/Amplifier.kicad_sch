@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "c90a190d-425c-4649-b2e7-4df291106ff4")
 	(paper "A4")
+	(title_block
+		(comment 1 "Dino Dubroja")
+	)
 	(lib_symbols)
 	(sheet
 		(at 63.5 50.8)
@@ -38,7 +41,7 @@
 		(instances
 			(project "Amplifier"
 				(path "/c90a190d-425c-4649-b2e7-4df291106ff4"
-					(page "6")
+					(page "3")
 				)
 			)
 		)
@@ -113,7 +116,7 @@
 		(instances
 			(project "Amplifier"
 				(path "/c90a190d-425c-4649-b2e7-4df291106ff4"
-					(page "5")
+					(page "2")
 				)
 			)
 		)
@@ -151,7 +154,7 @@
 		(instances
 			(project "Amplifier"
 				(path "/c90a190d-425c-4649-b2e7-4df291106ff4"
-					(page "3")
+					(page "1")
 				)
 			)
 		)
@@ -189,7 +192,7 @@
 		(instances
 			(project "Amplifier"
 				(path "/c90a190d-425c-4649-b2e7-4df291106ff4"
-					(page "2")
+					(page "5")
 				)
 			)
 		)
