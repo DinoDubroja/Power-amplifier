@@ -2920,7 +2920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" ""
 			(at 143.51 -36.5 0)
 			(effects
 				(font
@@ -3684,7 +3684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" ""
 			(at 144.78 13.03 0)
 			(effects
 				(font
@@ -4253,7 +4253,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" ""
 			(at 77.47 252.4 0)
 			(effects
 				(font
@@ -4478,7 +4478,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SR53V2001C"
+		(property "Footprint" ""
 			(at 160.02 -30.15 0)
 			(effects
 				(font

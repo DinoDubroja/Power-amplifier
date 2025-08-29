@@ -2988,7 +2988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" ""
 			(at 168.91 153.34 0)
 			(effects
 				(font
@@ -3483,7 +3483,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" ""
 			(at 100.33 234.62 0)
 			(effects
 				(font
@@ -3845,7 +3845,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" ""
 			(at 234.95 155.88 0)
 			(effects
 				(font
