@@ -1,4 +1,4 @@
-23082140409185111
+23085653715315344
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87087,12 +87087,26 @@ Undefined or Miscellaneous
 2
 2
 SamacSys_Parts
+52220061
+5222006-1-2
+Connector
+0
+5
+5
+SamacSys_Parts
 ATSPCBT1077
 ATS-PCBT1077-2
 Integrated Circuit
 0
 2
 2
+SamacSys_Parts
+COM16888
+22.5mm x 16.5mm x 19.0mm
+Relay or Contactor
+0
+5
+5
 SamacSys_Parts
 FUSC3116X70N
 SF-1206S

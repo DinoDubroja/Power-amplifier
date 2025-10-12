@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=4DB-P108-05
+PartCategory=Connector
+PackageCategory=Other
+PinCount=5
+Version=2.2
+Released=2020-01-22 11:21:02
+Downloaded=2025-09-06 18:19:35
+3D=Y

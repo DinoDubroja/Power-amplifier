@@ -9,7 +9,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 63.5 50.8)
+		(at 66.04 57.15)
 		(size 40.64 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -21,7 +21,7 @@
 		)
 		(uuid "02118419-b050-4570-beb3-1e03e4734a62")
 		(property "Sheetname" "Invert stage"
-			(at 63.5 50.0884 0)
+			(at 66.04 56.4384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30,7 +30,7 @@
 			)
 		)
 		(property "Sheetfile" "invert_stage.kicad_sch"
-			(at 63.5 76.7846 0)
+			(at 66.04 83.1346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41,13 +41,13 @@
 		(instances
 			(project "Amplifier"
 				(path "/c90a190d-425c-4649-b2e7-4df291106ff4"
-					(page "3")
+					(page "5")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 17.78 50.8)
+		(at 113.03 57.15)
 		(size 38.1 25.4)
 		(stroke
 			(width 0.1524)
@@ -58,7 +58,7 @@
 		)
 		(uuid "8c2375a1-962f-41e6-a977-e5effe59cd07")
 		(property "Sheetname" "Gain stage"
-			(at 17.78 50.038 0)
+			(at 113.03 56.388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67,7 +67,45 @@
 			)
 		)
 		(property "Sheetfile" "gain_stage.kicad_sch"
-			(at 17.78 76.7846 0)
+			(at 113.03 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplifier"
+				(path "/c90a190d-425c-4649-b2e7-4df291106ff4"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 57.15)
+		(size 40.64 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a0a30b47-7df4-49e7-bd2b-08e042e328ac")
+		(property "Sheetname" "Input stage"
+			(at 19.05 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input_stage.kicad_sch"
+			(at 19.05 83.1346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84,7 +122,7 @@
 		)
 	)
 	(sheet
-		(at 111.76 17.78)
+		(at 19.05 24.13)
 		(size 40.64 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -94,9 +132,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "a0a30b47-7df4-49e7-bd2b-08e042e328ac")
-		(property "Sheetname" "Input stage"
-			(at 111.76 17.0684 0)
+		(uuid "bd2fc644-0c8b-4faf-b788-55f50f678190")
+		(property "Sheetname" "Block diagram"
+			(at 19.05 23.4184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104,8 +142,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "input_stage.kicad_sch"
-			(at 111.76 43.7646 0)
+		(property "Sheetfile" "block_diagram.kicad_sch"
+			(at 19.05 50.1146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -122,7 +160,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 17.78)
+		(at 66.04 24.13)
 		(size 40.64 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -134,7 +172,7 @@
 		)
 		(uuid "be1576ec-1fe5-4b02-8bd6-7e4f4c0f614e")
 		(property "Sheetname" "Power"
-			(at 63.5 17.0684 0)
+			(at 66.04 23.4184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -143,7 +181,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 63.5 43.7646 0)
+			(at 66.04 50.1146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -154,13 +192,13 @@
 		(instances
 			(project "Amplifier"
 				(path "/c90a190d-425c-4649-b2e7-4df291106ff4"
-					(page "1")
+					(page "3")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 17.78 17.78)
+		(at 158.75 57.15)
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -172,7 +210,7 @@
 		)
 		(uuid "c42d6750-8a86-4a7b-8009-1bd63453f545")
 		(property "Sheetname" "Output stage"
-			(at 17.78 17.0684 0)
+			(at 158.75 56.4384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -181,7 +219,7 @@
 			)
 		)
 		(property "Sheetfile" "output_stage.kicad_sch"
-			(at 17.78 43.7646 0)
+			(at 158.75 83.1346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -192,7 +230,45 @@
 		(instances
 			(project "Amplifier"
 				(path "/c90a190d-425c-4649-b2e7-4df291106ff4"
-					(page "5")
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 24.13)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d07aef0e-b5e6-42a1-8454-d768dd0aa92e")
+		(property "Sheetname" "IO"
+			(at 113.03 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "io.kicad_sch"
+			(at 113.03 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplifier"
+				(path "/c90a190d-425c-4649-b2e7-4df291106ff4"
+					(page "8")
 				)
 			)
 		)

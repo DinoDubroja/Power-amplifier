@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/11312720/1227461/2.50/5/2/Connector/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c274.5_h183" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="72.047244094487">
+    <padshape layer="TOP" shape="round" width="108.07086614173" height="108.07086614173" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="115.94488188976" height="115.94488188976" />
+    <padshape layer="INNER" shape="round" width="108.07086614173" height="108.07086614173" />
+    <padshape layer="BOTTOM" shape="round" width="108.07086614173" height="108.07086614173" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="115.94488188976" height="115.94488188976" />
+  </padstyle>
+  <footprint name="4DBP10805" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="c274.5_h183" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c274.5_h183" originx="325" originy="0" rotation="90" />
+    <pcbpin number="3" name="3" style="c274.5_h183" originx="649.99999999999" originy="0" rotation="90" />
+    <pcbpin number="4" name="4" style="c274.5_h183" originx="974.99999999999" originy="0" rotation="90" />
+    <pcbpin number="5" name="5" style="c274.5_h183" originx="1300" originy="0" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-195" originy="89.999999999999" endx="1495" endy="89.999999999999" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="1495" originy="89.999999999999" endx="1495" endy="-409.99999999999" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="1495" originy="-409.99999999999" endx="-195" endy="-409.99999999999" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-195" originy="-409.99999999999" endx="-195" endy="89.999999999999" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-195" originy="89.999999999999" endx="1495" endy="89.999999999999" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="1495" originy="89.999999999999" endx="1495" endy="-409.99999999999" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="1495" originy="-409.99999999999" endx="-195" endy="-409.99999999999" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-195" originy="-409.99999999999" endx="-195" endy="89.999999999999" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-234.37007874015" originy="129.37007874016" endx="1534.3700787401" endy="129.37007874016" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="1534.3700787401" originy="129.37007874016" endx="1534.3700787401" endy="-449.37007874015" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="1534.3700787401" originy="-449.37007874015" endx="-234.37007874015" endy="-449.37007874015" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-234.37007874015" originy="-449.37007874015" endx="-234.37007874015" endy="129.37007874016" width="3.9370078740157" />
+  </footprint>
+  <symbol name="4DB-P108-05" originx="0" originy="0">
+    <line originx="200" originy="100" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-500" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-500" endx="200" endy="-500" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-500" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="200" originy="-200" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="3" />
+      <text name="pindes" originx="140" originy="-180" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="4" originx="200" originy="-300" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-300" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="4" />
+      <text name="pindes" originx="140" originy="-280" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="4" />
+    </sympin>
+    <sympin number="5" originx="200" originy="-400" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-400" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="5" />
+      <text name="pindes" originx="140" originy="-380" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="5" />
+    </sympin>
+  </symbol>
+  <component name="4DB-P108-05" designatorprefix="J" height="529.99999999999" footprint="4DBP10805">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="3" />
+    <comppin designator="4" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="4" />
+    <comppin designator="5" sympin="5" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="5" />
+    <attached_symbol gate="1" name="4DB-P108-05" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <pinmap designator="4" footprintpin="4" />
+    <pinmap designator="5" footprintpin="5" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.te.com/en/product-2-1437667-8.html" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="5 Position Barrier Strip, Dual Barrier, Printed Circuit Pin Bottom Termination, Wire-to-Board, 8.26 mm [.325 in] Centerline, Buchanan 4DB Series" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="571-214376678" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/TE-Connectivity/4DB-P108-05?qs=Z6EyuLNezPm0fdvMDgwfQw%3D%3D" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="TE Connectivity" />
+    <text name="Manufacturer_Part_Number" originx="650" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="4DB-P108-05" />
+  </component>
+</quadcept_library>

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '4DB_P108_05'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "4DB-P108-05" (!) = "", "4DBP10805", "Other", "571-214376678", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/4DB-P108-05?qs=Z6EyuLNezPm0fdvMDgwfQw%3D%3D", "5 Position Barrier Strip, Dual Barrier, Printed Circuit Pin Bottom Termination, Wire-to-Board, 8.26 mm [.325 in] Centerline, Buchanan 4DB Series", "https://www.te.com/en/product-2-1437667-8.html", "13.462 mm"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+.4DB-P108-05 :1 ;5 Position Barrier Strip, Dual Barrier, Printed Circuit Pin Bottom Termination, Wire-to-Board, 8.26 mm [.325 in] Centerline, Buchanan 4DB Series
+"4DBP10805"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5"
+*MXP 5
+*DFN 4DB-P108-05
+~!Mouser Part Number (571-214376678)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity/4DB-P108-05?qs=Z6EyuLNezPm0fdvMDgwfQw%3D%3D)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (4DB-P108-05)
+~!Link Datasheet (https://www.te.com/en/product-2-1437667-8.html)
+~!Height (13.462mm)
+~!3D_Model (4DB-P108-05)
+"4DB-P108-05"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

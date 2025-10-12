@@ -1,0 +1,115 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "4DB-P108-05"
+   (description "5 Position Barrier Strip, Dual Barrier, Printed Circuit Pin Bottom Termination, Wire-to-Board, 8.26 mm [.325 in] Centerline, Buchanan 4DB Series")
+   (family "CON")
+   (package "4DBP10805")
+   (attribute "Datasheet Link" "https://www.te.com/en/product-2-1437667-8.html")
+   (attribute "Geometry.Height" "13.462mm")
+   (attribute "Mouser Part Number" "571-214376678")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/4DB-P108-05?qs=Z6EyuLNezPm0fdvMDgwfQw%3D%3D")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "4DB-P108-05")
+   (gate
+    (symbol "4DB-P108-05")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+   )
+  )
+  (symbol "4DB-P108-05"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "4DBP10805"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -4.953 2.286)
+      (pt 37.973 2.286)
+      (pt 37.973 -10.414)
+      (pt -4.953 -10.414)
+      (pt -4.953 2.286))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.953 2.286)
+      (pt 37.973 2.286)
+      (pt 37.973 -10.414)
+      (pt -4.953 -10.414)
+      (pt -4.953 2.286))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.953 3.286)
+      (pt 38.973 3.286)
+      (pt 38.973 -11.414)
+      (pt -5.953 -11.414)
+      (pt -5.953 3.286))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 8.255 0.000) (padstack 0))
+   (leg 3 (pt 16.510 0.000) (padstack 0))
+   (leg 4 (pt 24.765 0.000) (padstack 0))
+   (leg 5 (pt 33.020 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.83)
+    (plated true)
+    (pad (layer TCOP) (round 2.745))
+    (pad (layer INNER) (round 2.745))
+    (pad (layer BCOP) (round 2.745))
+   )
+   (model "4DB-P108-05.stp"
+    (euler 90 0 180)
+    (offset 16.530000686645508 2.450000047683716 0)
+   )
+  )
+ )
+)

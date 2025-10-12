@@ -1,0 +1,42 @@
+** Drc report for Amplifier.kicad_pcb **
+** Created on 2025-09-05T23:47:20+0200 **
+
+** Found 9 DRC violations **
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; 1 spokes connected to isolated island)
+    Local override; error (excluded)
+    @(2,4016 in, 1,2500 in): Zone [GND] on F.Cu and B.Cu
+    @(5,1969 in, 1,7898 in): PTH pad 1 [GND] of D1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error (excluded)
+    @(2,4016 in, 1,2500 in): Zone [GND] on F.Cu and B.Cu
+    @(6,8661 in, 3,3978 in): PTH pad 1 [GND] of C23
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error (excluded)
+    @(2,4016 in, 1,2500 in): Zone [GND] on F.Cu and B.Cu
+    @(4,6063 in, 2,1675 in): PTH pad 2 [GND] of U1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; 1 spokes connected to isolated island)
+    Local override; error (excluded)
+    @(2,4016 in, 1,2500 in): Zone [GND] on F.Cu and B.Cu
+    @(3,7598 in, 3,1890 in): PTH pad 1 [GND] of C14
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error (excluded)
+    @(2,4016 in, 1,2500 in): Zone [GND] on F.Cu and B.Cu
+    @(4,7638 in, 1,9685 in): PTH pad 2 [GND] of C4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning (excluded)
+    @(7,5583 in, 3,7648 in): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning (excluded)
+    @(7,5583 in, 3,7648 in): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning (excluded)
+    @(7,5583 in, 4,1494 in): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning (excluded)
+    @(7,6031 in, 3,1693 in): Segment on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
